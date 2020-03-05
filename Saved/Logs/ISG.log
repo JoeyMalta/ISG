@@ -2799,3 +2799,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.05-17.09.29:029][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/Levels/MAP_Factory_BuiltData" FILE="Z:/ISG_/ISG/Content/GameRelated/Levels/MAP_Factory_BuiltData.uasset" SILENT=true
 [2020.03.05-17.09.29:042][326]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MAP_Factory_BuiltData69AC99FE494C93212669ECB24C8129FE.tmp' to 'Z:/ISG_/ISG/Content/GameRelated/Levels/MAP_Factory_BuiltData.uasset'
 [2020.03.05-17.09.29:905][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.03.05-17.10.03:496][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-17.10.04:433][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.03.05-17.11.51:693][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-17.11.52:748][934]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ActorRelated/ForkLift.ForkLift
+[2020.03.05-17.11.56:571][224]BlueprintLog: New page: Compile ForkLift
+[2020.03.05-17.11.56:759][224]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2020.03.05-17.11.59:198][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActorRelated/ForkLift" FILE="Z:/ISG_/ISG/Content/ActorRelated/ForkLift.uasset" SILENT=true
+[2020.03.05-17.11.59:222][447]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/ForkLift35B2C1624CB5BD492C2F5990385E0E72.tmp' to 'Z:/ISG_/ISG/Content/ActorRelated/ForkLift.uasset'
+[2020.03.05-17.12.00:227][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-17.12.00:736][584]LogSlate: Window 'ForkLift' being destroyed
+[2020.03.05-17.12.00:741][584]LogSlate: Window 'ForkLift' being destroyed
+[2020.03.05-17.12.00:751][584]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
