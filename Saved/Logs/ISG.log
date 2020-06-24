@@ -18740,3 +18740,50 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.24-23.37.38:631][378]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MAP_Garden9D127090419E78E20D3BE38FE4101F04.tmp' to 'Z:/ISG_/ISG/Content/maps/MAP_Garden.umap'
 [2020.06.24-23.37.38:709][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/MAP_Garden_BuiltData" FILE="Z:/ISG_/ISG/Content/maps/MAP_Garden_BuiltData.uasset" SILENT=true
 [2020.06.24-23.37.38:754][378]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MAP_Garden_BuiltData20ECC2E54957B50764B729AAEA7CDA1C.tmp' to 'Z:/ISG_/ISG/Content/maps/MAP_Garden_BuiltData.uasset'
+[2020.06.24-23.38.46:263][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.24-23.38.54:254][397]LogLinker: Warning: While loading 'Z:/ISG_/ISG/Content/MyAssets/Models/Button/Button.uasset' failed to load '/Game/MyAssets/Models/Button/ButtonTop': Can't find file.
+[2020.06.24-23.38.54:255][397]LogLinker: Warning: While loading 'Z:/ISG_/ISG/Content/MyAssets/Models/Button/Button.uasset' failed to load '/Game/MyAssets/Models/Button/ButtonTop': Can't find file.
+[2020.06.24-23.38.54:255][397]LogLinker: Warning: While loading 'Z:/ISG_/ISG/Content/MyAssets/Models/Button/Button.uasset' failed to load '/Game/MyAssets/Models/Button/ButtonTop': Can't find file.
+[2020.06.24-23.38.54:255][397]LogLinker: Warning: While loading 'Z:/ISG_/ISG/Content/MyAssets/Models/Button/Button.uasset' failed to load '/Game/MyAssets/Models/Button/ButtonTop': Can't find file.
+[2020.06.24-23.38.54:345][397]LogAIModule: Creating AISystem for world MM_Level
+[2020.06.24-23.38.54:362][397]LogAssetEditorManager: Opening Asset editor for World /Game/MainMenuRelated/MM_Level.MM_Level
+[2020.06.24-23.38.54:405][397]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.06.24-23.38.55:452][397]LogSlate: Window 'Save Content' being destroyed
+[2020.06.24-23.38.55:465][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Bin/Bin" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Bin/Bin.uasset" SILENT=true
+[2020.06.24-23.38.55:475][397]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/BinC90896034FACE1F6E25C95A0A3CB1D3A.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Bin/Bin.uasset'
+[2020.06.24-23.38.55:483][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Bin/Bin1" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Bin/Bin1.uasset" SILENT=true
+[2020.06.24-23.38.55:491][397]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bin14D31A46A4E443B41AB835DA42CFC0E70.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Bin/Bin1.uasset'
+[2020.06.24-23.38.55:499][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Bin/palette" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Bin/palette.uasset" SILENT=true
+[2020.06.24-23.38.55:508][397]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/palette0F0DAA5D42610B5E2C3D0C8A9244A538.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Bin/palette.uasset'
+[2020.06.24-23.38.55:514][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Button/buttonbot" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Button/buttonbot.uasset" SILENT=true
+[2020.06.24-23.38.55:534][397]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/buttonbotE5BFD5CD4A8474DEDBF7E39DB683D77E.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Button/buttonbot.uasset'
+[2020.06.24-23.38.55:540][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Button/ButtonTop" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Button/ButtonTop.uasset" SILENT=true
+[2020.06.24-23.38.55:549][397]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/ButtonTopB69CEFAE409D07F268080F821D6C5895.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Button/ButtonTop.uasset'
+[2020.06.24-23.38.55:561][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Button/palette" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Button/palette.uasset" SILENT=true
+[2020.06.24-23.38.55:572][397]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/palette8329073648CA34912FDA06BFFA3BF5DF.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Button/palette.uasset'
+[2020.06.24-23.38.55:579][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Parkbench/palette" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Parkbench/palette.uasset" SILENT=true
+[2020.06.24-23.38.55:588][397]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/paletteEFE07A80478FD5B68F77C1AC1DFE2B32.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Parkbench/palette.uasset'
+[2020.06.24-23.38.55:597][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Parkbench/Parkbench" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Parkbench/Parkbench.uasset" SILENT=true
+[2020.06.24-23.38.55:611][397]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Parkbench1353E5764630E0805F7078AC3AE62DBD.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Parkbench/Parkbench.uasset'
+[2020.06.24-23.38.55:620][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Parkbench/Parkbench1" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Parkbench/Parkbench1.uasset" SILENT=true
+[2020.06.24-23.38.55:628][397]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Parkbench1E67C21A14D0BEA6811AA7EA1B3C1DCF4.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Parkbench/Parkbench1.uasset'
+[2020.06.24-23.38.55:635][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Textures/FloorTile_Mat1" FILE="Z:/ISG_/ISG/Content/MyAssets/Textures/FloorTile_Mat1.uasset" SILENT=true
+[2020.06.24-23.38.55:644][397]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/FloorTile_Mat1582898A546CB0F37E3084EA553A50940.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Textures/FloorTile_Mat1.uasset'
+[2020.06.24-23.38.55:648][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Textures/FloorTile_Mat2" FILE="Z:/ISG_/ISG/Content/MyAssets/Textures/FloorTile_Mat2.uasset" SILENT=true
+[2020.06.24-23.38.55:658][397]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/FloorTile_Mat20B9F6AB647E834C384D8F8B8BAE52E74.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Textures/FloorTile_Mat2.uasset'
+[2020.06.24-23.38.55:666][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Textures/FloorTile_Mat4" FILE="Z:/ISG_/ISG/Content/MyAssets/Textures/FloorTile_Mat4.uasset" SILENT=true
+[2020.06.24-23.38.55:675][397]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/FloorTile_Mat4F9A545D74D9E8ED39D83EDA1530AE3BE.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Textures/FloorTile_Mat4.uasset'
+[2020.06.24-23.38.55:681][397]Cmd: MAP LOAD FILE="Z:/ISG_/ISG/Content/MainMenuRelated/MM_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.24-23.38.55:682][397]LightingResults: New page: Lighting Build
+[2020.06.24-23.38.55:682][397]LoadErrors: New page: Loading map: MM_Level.umap
+[2020.06.24-23.38.55:685][397]LogWorld: UWorld::CleanupWorld for MAP_Garden, bSessionEnded=true, bCleanupResources=true
+[2020.06.24-23.38.55:689][397]MapCheck: New page: Map Check
+[2020.06.24-23.38.55:689][397]LightingResults: New page: Lighting Build
+[2020.06.24-23.38.55:727][397]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.06.24-23.38.56:134][397]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.24-23.38.56:170][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.06.24-23.38.56:200][397]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.24-23.38.56:200][397]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,102ms to complete.
+[2020.06.24-23.38.56:200][397]LogFileHelpers: Loading map 'MM_Level' took 0.523
+[2020.06.24-23.38.57:753][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.06.24-23.38.59:253][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
