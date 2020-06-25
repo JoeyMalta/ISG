@@ -1,0 +1,978 @@
+﻿Log file open, 06/25/20 15:22:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ISG
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.066646
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DataPrepEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin SmoothSyncPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin DatasmithC4DImporter
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithIFCImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.42
+LogOnline: OSS: Creating online subsystem instance for: Steam
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Z:/ISG_/ISG/Saved/Config/Windows/Engine.ini]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Z:/ISG_/ISG/Saved/Config/Windows/Engine.ini]
+[2020.06.25-13.22.38:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Z:/ISG_/ISG/Saved/Config/Windows/Engine.ini]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Z:/ISG_/ISG/Saved/Config/Windows/Engine.ini]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.06.25-13.22.38:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Z:/ISG_/ISG/Saved/Config/Windows/Engine.ini]
+[2020.06.25-13.22.38:874][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Z:/ISG_/ISG/Saved/Config/Windows/Engine.ini]
+[2020.06.25-13.22.38:878][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Z:/ISG_/ISG/Saved/Config/Windows/Scalability.ini]
+[2020.06.25-13.22.38:878][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.25-13.22.38:878][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.25-13.22.38:878][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Z:/ISG_/ISG/Saved/Config/Windows/Scalability.ini]
+[2020.06.25-13.22.38:878][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.25-13.22.38:878][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Z:/ISG_/ISG/Saved/Config/Windows/Scalability.ini]
+[2020.06.25-13.22.38:878][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.25-13.22.38:878][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.25-13.22.38:878][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.25-13.22.38:878][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.25-13.22.38:878][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.25-13.22.38:878][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.25-13.22.38:878][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.25-13.22.38:878][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.25-13.22.38:878][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.25-13.22.38:878][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.25-13.22.38:878][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.25-13.22.38:878][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.25-13.22.38:878][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.25-13.22.38:878][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.25-13.22.38:878][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Z:/ISG_/ISG/Saved/Config/Windows/Scalability.ini]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Z:/ISG_/ISG/Saved/Config/Windows/Scalability.ini]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Z:/ISG_/ISG/Saved/Config/Windows/Scalability.ini]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Z:/ISG_/ISG/Saved/Config/Windows/Scalability.ini]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.25-13.22.38:879][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.25-13.22.38:879][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.25-13.22.38:879][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.25-13.22.38:881][  0]LogHAL: Display: Platform has ~ 16 GB [17106059264 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.25-13.22.38:881][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.25-13.22.38:882][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [Z:/ISG_/ISG/Saved/Config/Windows/Scalability.ini]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [Z:/ISG_/ISG/Saved/Config/Windows/Scalability.ini]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [Z:/ISG_/ISG/Saved/Config/Windows/Scalability.ini]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [Z:/ISG_/ISG/Saved/Config/Windows/Scalability.ini]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [Z:/ISG_/ISG/Saved/Config/Windows/Scalability.ini]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [Z:/ISG_/ISG/Saved/Config/Windows/Scalability.ini]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [Z:/ISG_/ISG/Saved/Config/Windows/Scalability.ini]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.25-13.22.38:882][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.06.25-13.22.38:883][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.06.25-13.22.38:883][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.06.25-13.22.38:883][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Z:/ISG_/ISG/Saved/Config/Windows/Engine.ini]
+[2020.06.25-13.22.38:883][  0]LogInit: Computer: JOEYCOMPUTER
+[2020.06.25-13.22.38:883][  0]LogInit: User: joeym
+[2020.06.25-13.22.38:883][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.06.25-13.22.38:883][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.25-13.22.38:883][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.06.25-13.22.38:883][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.25-13.22.38:883][  0]LogMemory: Process Physical Memory: 102.39 MB used, 102.40 MB peak
+[2020.06.25-13.22.38:883][  0]LogMemory: Process Virtual Memory: 99.23 MB used, 99.23 MB peak
+[2020.06.25-13.22.38:883][  0]LogMemory: Physical Memory: 7141.36 MB used,  9172.25 MB free, 16313.61 MB total
+[2020.06.25-13.22.38:883][  0]LogMemory: Virtual Memory: 4669.20 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.06.25-13.22.38:887][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.06.25-13.22.38:912][  0]LogInit: Using OS detected language (nl-NL).
+[2020.06.25-13.22.38:912][  0]LogInit: Using OS detected locale (nl-NL).
+[2020.06.25-13.22.38:913][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
+[2020.06.25-13.22.39:056][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.25-13.22.39:091][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.25-13.22.39:092][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.25-13.22.39:297][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.25-13.22.39:297][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.25-13.22.39:352][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.06.25-13.22.39:352][  0]LogD3D11RHI:       8079/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.06.25-13.22.39:354][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.25-13.22.39:354][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.25-13.22.39:354][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.06.25-13.22.39:361][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.25-13.22.39:361][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.06.25-13.22.39:361][  0]LogWindows: EnumDisplayDevices:
+[2020.06.25-13.22.39:361][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.06.25-13.22.39:361][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2020.06.25-13.22.39:362][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.06.25-13.22.39:362][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.06.25-13.22.39:362][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.06.25-13.22.39:362][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.06.25-13.22.39:362][  0]LogD3D11RHI:   Driver Version: 446.14 (internal:26.21.14.4614, unified:446.14)
+[2020.06.25-13.22.39:362][  0]LogD3D11RHI:      Driver Date: 5-15-2020
+[2020.06.25-13.22.39:362][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.06.25-13.22.39:402][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.25-13.22.39:413][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.06.25-13.22.39:712][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.06.25-13.22.39:720][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.06.25-13.22.39:728][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.06.25-13.22.39:736][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.06.25-13.22.39:743][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.06.25-13.22.39:751][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.06.25-13.22.39:758][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.06.25-13.22.39:766][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.06.25-13.22.39:771][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.06.25-13.22.39:803][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.06.25-13.22.39:803][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.06.25-13.22.39:803][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.06.25-13.22.39:803][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.06.25-13.22.39:803][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.06.25-13.22.39:803][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.06.25-13.22.39:803][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.06.25-13.22.39:803][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.06.25-13.22.39:803][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.06.25-13.22.39:803][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.06.25-13.22.39:803][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.06.25-13.22.39:803][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.06.25-13.22.39:803][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.06.25-13.22.39:803][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.06.25-13.22.39:803][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.06.25-13.22.39:803][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.06.25-13.22.39:803][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.06.25-13.22.39:803][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.06.25-13.22.39:805][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.06.25-13.22.39:821][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.06.25-13.22.39:821][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.06.25-13.22.39:835][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.06.25-13.22.39:835][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.06.25-13.22.39:842][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.06.25-13.22.39:850][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.06.25-13.22.39:858][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.06.25-13.22.39:865][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.06.25-13.22.39:887][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.06.25-13.22.39:887][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.06.25-13.22.39:887][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.25-13.22.39:895][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.06.25-13.22.39:954][  0]LogShaderCompilers: Guid format shader working directory is 34 characters bigger than the processId version (Z:/ISG_/ISG/Intermediate/Shaders/WorkingDirectory/18020/).
+[2020.06.25-13.22.39:954][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/joeym/AppData/Local/Temp/UnrealShaderWorkingDir/3DA460DD43F335CE6B389888D0EC2774/'.
+[2020.06.25-13.22.39:956][  0]LogXGEController: Cleaning working directory: C:/Users/joeym/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.06.25-13.22.39:956][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.25-13.22.39:956][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.25-13.22.39:956][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.25-13.22.40:475][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.25-13.22.40:522][  0]LogDerivedDataCache: Loaded boot cache 0.05s 74MB C:/Users/joeym/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.06.25-13.22.40:522][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/joeym/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.06.25-13.22.40:522][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file Z:/ISG_/ISG/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.25-13.22.40:522][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.25-13.22.40:522][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file Z:/ISG_/ISG/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.25-13.22.40:522][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.25-13.22.40:532][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.25-13.22.40:533][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2020.06.25-13.22.40:535][  0]LogDerivedDataCache: Using Local data cache path C:/Users/joeym/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.25-13.22.40:535][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.25-13.22.40:535][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.25-13.22.40:561][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.25-13.22.40:564][  0]LogSlate: Using FreeType 2.6.0
+[2020.06.25-13.22.40:565][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.25-13.22.40:629][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2020.06.25-13.22.40:857][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.25-13.22.40:985][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.25-13.22.40:985][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.06.25-13.22.40:985][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.25-13.22.40:985][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.06.25-13.22.40:985][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.06.25-13.22.40:993][  0]LogNetVersion: ISG 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1051496785)
+[2020.06.25-13.22.41:368][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.058838 seconds
+[2020.06.25-13.22.41:374][  0]LogUObjectArray: 43453 objects as part of root set at end of initial load.
+[2020.06.25-13.22.41:374][  0]LogUObjectAllocator: 7559736 out of 0 bytes used by permanent object pool.
+[2020.06.25-13.22.41:374][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.25-13.22.42:172][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.25-13.22.42:174][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.25-13.22.42:234][  0]SourceControl: Source control is disabled
+[2020.06.25-13.22.42:234][  0]SourceControl: Source control is disabled
+[2020.06.25-13.22.42:235][  0]SourceControl: Source control is disabled
+[2020.06.25-13.22.42:236][  0]SourceControl: Source control is disabled
+[2020.06.25-13.22.42:432][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.25-13.22.42:583][  0]LogOcInput: OculusInput pre-init called
+[2020.06.25-13.22.42:593][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.06.25-13.22.42:593][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.06.25-13.22.44:891][  0]LogEngine: Initializing Engine...
+[2020.06.25-13.22.44:892][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.25-13.22.44:893][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.06.25-13.22.45:080][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.25-13.22.45:090][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.25-13.22.45:133][  0]LogInit: XAudio2 using 'Hoofdtelefoon (3- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.25-13.22.45:168][  0]LogInit: FAudioDevice initialized.
+[2020.06.25-13.22.45:168][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.25-13.22.45:219][  0]LogDerivedDataCache: Saved boot cache 0.05s 74MB C:/Users/joeym/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.06.25-13.22.45:225][  0]LogInit: Texture streaming: Enabled
+[2020.06.25-13.22.45:242][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.25-13.22.45:242][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={FB0448A7-4F1D-AA9D-7B7C-6F9B3DDDA038}
+[2020.06.25-13.22.45:242][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.06.25-13.22.45:243][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.06.25-13.22.45:298][  0]LogInit: Transaction tracking system initialized
+[2020.06.25-13.22.45:324][  0]BlueprintLog: New page: Editor Load
+[2020.06.25-13.22.45:382][  0]LocalizationService: Localization service is disabled
+[2020.06.25-13.22.45:617][  0]LogFileCache: Scanning file cache for directory 'Z:/ISG_/ISG/Content/' took 0.00s
+[2020.06.25-13.22.45:617][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.25-13.22.45:618][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.25-13.22.47:075][  0]SourceControl: Source control is disabled
+[2020.06.25-13.22.47:075][  0]Cmd: MAP LOAD FILE="Z:/ISG_/ISG/Content/MainMenuRelated/MM_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.25-13.22.47:075][  0]LightingResults: New page: Lighting Build
+[2020.06.25-13.22.47:077][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-13.22.47:077][  0]MapCheck: New page: Map Check
+[2020.06.25-13.22.47:077][  0]LightingResults: New page: Lighting Build
+[2020.06.25-13.22.47:097][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.06.25-13.22.47:719][  0]LogAIModule: Creating AISystem for world MM_Level
+[2020.06.25-13.22.47:741][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.25-13.22.47:769][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.06.25-13.22.47:769][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.25-13.22.47:769][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,081ms to complete.
+[2020.06.25-13.22.47:769][  0]LogFileHelpers: Loading map 'MM_Level' took 0.695
+[2020.06.25-13.22.47:876][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.25-13.22.47:882][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.25-13.22.47:890][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.25-13.22.47:896][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.25-13.22.47:901][  0]LogCollectionManager: Loaded 0 collections in 0.000985 seconds
+[2020.06.25-13.22.47:905][  0]LogFileCache: Scanning file cache for directory 'Z:/ISG_/ISG/Saved/Collections/' took 0.00s
+[2020.06.25-13.22.47:905][  0]LogFileCache: Scanning file cache for directory 'Z:/ISG_/ISG/Content/Developers/joeym/Collections/' took 0.00s
+[2020.06.25-13.22.47:905][  0]LogFileCache: Scanning file cache for directory 'Z:/ISG_/ISG/Content/Collections/' took 0.00s
+[2020.06.25-13.22.47:905][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.06.25-13.22.47:912][  0]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 3072 classes and 778 folders.
+[2020.06.25-13.22.47:917][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.06.25-13.22.47:970][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.06.25-13.22.47:974][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2020.06.25-13.22.48:042][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.06.25-13.22.48:054][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.25-13.22.48:056][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.25-13.22.48:060][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.25-13.22.48:113][  0]LogRenderer: Reallocating scene render targets to support 1200x608 Format 10 NumSamples 1 (Frame:1).
+[2020.06.25-13.22.48:198][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.06.25-13.22.48:198][  0]LogLoad: (Engine Initialization) Total time: 10.64 seconds
+[2020.06.25-13.22.48:199][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.25-13.22.48:254][  0]LogAssetRegistry: Asset discovery search completed in 7.6255 seconds
+[2020.06.25-13.22.48:257][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2020.06.25-13.22.48:257][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000094 seconds (updated 0 objects)
+[2020.06.25-13.22.48:259][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2020.06.25-13.22.48:300][  0]LogRenderer: Reallocating scene render targets to support 1200x624 Format 10 NumSamples 1 (Frame:5).
+[2020.06.25-13.22.48:300][  0]LogSlate: Took 0.000406 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.25-13.22.48:306][  1]LogFileCache: Retrieving MD5 hashes for directory 'Z:/ISG_/ISG/Content/' took 0.09s
+[2020.06.25-13.22.49:097][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.25-13.22.49:236][106]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.25-13.22.56:057][890]LogAIModule: Creating AISystem for world MAP_Garden
+[2020.06.25-13.22.56:084][890]LogAssetEditorManager: Opening Asset editor for World /Game/maps/MAP_Garden.MAP_Garden
+[2020.06.25-13.22.56:107][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.06.25-13.22.56:108][890]Cmd: MAP LOAD FILE="Z:/ISG_/ISG/Content/maps/MAP_Garden.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.25-13.22.56:108][890]LightingResults: New page: Lighting Build
+[2020.06.25-13.22.56:109][890]LoadErrors: New page: Loading map: MAP_Garden.umap
+[2020.06.25-13.22.56:109][890]LogWorld: UWorld::CleanupWorld for MM_Level, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-13.22.56:110][890]MapCheck: New page: Map Check
+[2020.06.25-13.22.56:110][890]LightingResults: New page: Lighting Build
+[2020.06.25-13.22.56:136][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.06.25-13.22.56:240][890]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.25-13.22.56:265][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.06.25-13.22.56:290][890]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.25-13.22.56:291][890]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,14ms to complete.
+[2020.06.25-13.22.56:291][890]LogFileHelpers: Loading map 'MAP_Garden' took 0.183
+[2020.06.25-13.22.56:938][960]LogEditorViewport: Clicking on Actor (LMB): Button_C (Button)
+[2020.06.25-13.22.57:160][984]LogEditorViewport: Clicking on Actor (context menu): Button_C (Button)
+[2020.06.25-13.22.57:182][984]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.25-13.22.57:720][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.25-13.22.57:727][ 48]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyAssets/Models/Button/Button.Button
+[2020.06.25-13.22.57:930][ 48]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.06.25-13.22.58:657][ 48]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.25-13.22.58:738][ 49]LogSlate: Took 0.000597 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.06.25-13.23.42:583][408]BlueprintLog: New page: Compile Button
+[2020.06.25-13.23.42:779][408]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.06.25-13.23.43:291][452]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.06.25-13.23.43:308][452]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/maps/MAP_Garden.MAP_Garden:PersistentLevel' has LevelScriptBlueprint '/Game/maps/MAP_Garden.MAP_Garden:PersistentLevel.MAP_Garden' with GeneratedClass '/Game/maps/MAP_Garden.MAP_Garden_C' with ClassGeneratedBy '/Game/maps/MAP_Garden.MAP_Garden:PersistentLevel.MAP_Garden'
+[2020.06.25-13.23.43:309][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.25-13.23.43:309][452]PIE: New page: PIE session: MAP_Garden (25 jun. 2020 17:23:43)
+[2020.06.25-13.23.43:310][452]LogOnline: OSS: Creating online subsystem instance for: Steam
+[2020.06.25-13.23.43:310][452]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.06.25-13.23.43:310][452]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.06.25-13.23.43:311][452]LogPlayLevel: Creating play world package: /Game/maps/UEDPIE_1_MAP_Garden
+[2020.06.25-13.23.43:324][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012991s)
+[2020.06.25-13.23.43:325][452]LogAIModule: Creating AISystem for world MAP_Garden
+[2020.06.25-13.23.43:325][452]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2020.06.25-13.23.43:325][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/maps/MAP_Garden.MAP_Garden to /Game/maps/UEDPIE_1_MAP_Garden.MAP_Garden (0.014210s)
+[2020.06.25-13.23.43:351][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.06.25-13.23.43:361][452]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2020.06.25-13.23.43:386][452]LogInit: XAudio2 using 'Hoofdtelefoon (3- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.25-13.23.43:424][452]LogInit: FAudioDevice initialized.
+[2020.06.25-13.23.43:434][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.25-13.23.43:435][452]LogLoad: Game class is 'GM_BaseGamemode_C'
+[2020.06.25-13.23.43:442][452]LogWorld: Bringing World /Game/maps/UEDPIE_1_MAP_Garden.MAP_Garden up for play (max tick rate 0) at 2020.06.25-15.23.43
+[2020.06.25-13.23.43:443][452]LogWorld: Bringing up level for play took: 0.006292
+[2020.06.25-13.23.43:443][452]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.06.25-13.23.43:445][452]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2020.06.25-13.23.43:445][452]LogVoiceEngine: Error: OSS: StopLocalVoiceProcessing: Ignoring stop request for non-owning user
+[2020.06.25-13.23.43:445][452]LogOnlineVoice: OSS: StopLocalVoiceProcessing(0) returned 0xFFFFFFFF
+[2020.06.25-13.23.43:445][452]LogOnlineVoice: OSS: Stopping networked voice for user: 0
+[2020.06.25-13.23.43:450][452]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.06.25-13.23.43:451][452]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.06.25-13.23.43:452][452]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2020.06.25-13.23.43:452][452]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.06.25-13.23.43:452][452]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2020.06.25-13.23.43:452][452]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.06.25-13.23.43:454][452]LogInit: WinSock: I am JOEYCOMPUTER (169.254.105.252:0)
+[2020.06.25-13.23.43:454][452]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2020.06.25-13.23.43:455][452]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.06.25-13.23.43:455][452]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2020.06.25-13.23.43:461][452]PIE: Play in editor start time for /Game/maps/UEDPIE_1_MAP_Garden 0,845
+[2020.06.25-13.23.43:469][452]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.25-13.23.43:477][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.25-13.23.43:478][452]LogNet: Browse: 127.0.0.1:17777//Game/MainMenuRelated/MM_Level
+[2020.06.25-13.23.43:478][452]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.06.25-13.23.43:478][452]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2020.06.25-13.23.43:478][452]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.06.25-13.23.43:479][452]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.06.25-13.23.43:479][452]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.06.25-13.23.43:479][452]LogNet: Game client on port 17777, rate 10000
+[2020.06.25-13.23.43:483][452]PIE: Play in editor start time for /Game/MainMenuRelated/MM_Level 0,867
+[2020.06.25-13.23.43:488][452]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.25-13.23.43:495][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.25-13.23.43:495][452]LogNet: Browse: 127.0.0.1:17777//Game/MainMenuRelated/MM_Level
+[2020.06.25-13.23.43:496][452]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.06.25-13.23.43:496][452]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2020.06.25-13.23.43:496][452]LogTemp: Display: ParseSettings for PendingNetDriver
+[2020.06.25-13.23.43:496][452]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2020.06.25-13.23.43:496][452]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.06.25-13.23.43:496][452]LogNet: Game client on port 17777, rate 10000
+[2020.06.25-13.23.43:501][452]PIE: Play in editor start time for /Game/MainMenuRelated/MM_Level 0,886
+[2020.06.25-13.23.43:508][452]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/maps/MAP_Garden.MAP_Garden:PersistentLevel' has LevelScriptBlueprint '/Game/maps/MAP_Garden.MAP_Garden:PersistentLevel.MAP_Garden' with GeneratedClass '/Game/maps/MAP_Garden.MAP_Garden_C' with ClassGeneratedBy '/Game/maps/MAP_Garden.MAP_Garden:PersistentLevel.MAP_Garden'
+[2020.06.25-13.23.43:509][452]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58282
+[2020.06.25-13.23.43:509][452]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 139158149185147008191224043109225130184027148028120103163237
+[2020.06.25-13.23.43:509][452]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58283
+[2020.06.25-13.23.43:509][452]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 074244036091126193172082247045125017039187124202049106098177
+[2020.06.25-13.23.43:515][452]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 139158149185147008191224043109225130184027148028120103163237
+[2020.06.25-13.23.43:516][452]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 074244036091126193172082247045125017039187124202049106098177
+[2020.06.25-13.23.43:583][453]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.06.25-13.23.43:877][453]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58282
+[2020.06.25-13.23.43:878][453]LogHandshake: SendChallengeAck. InCookie: 139158149185147008191224043109225130184027148028120103163237
+[2020.06.25-13.23.43:878][453]LogNet: Server accepting post-challenge connection from: 127.0.0.1:58282
+[2020.06.25-13.23.43:878][453]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.06.25-13.23.43:878][453]LogNet: NotifyAcceptedConnection: Name: MAP_Garden, TimeStamp: 06/25/20 15:23:43, [UNetConnection] RemoteAddr: 127.0.0.1:58282, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.06.25-13.23.43:878][453]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:58282, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.06.25-13.23.43:878][453]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58283
+[2020.06.25-13.23.43:878][453]LogHandshake: SendChallengeAck. InCookie: 074244036091126193172082247045125017039187124202049106098177
+[2020.06.25-13.23.43:878][453]LogNet: Server accepting post-challenge connection from: 127.0.0.1:58283
+[2020.06.25-13.23.43:880][453]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.06.25-13.23.43:880][453]LogNet: NotifyAcceptedConnection: Name: MAP_Garden, TimeStamp: 06/25/20 15:23:43, [UNetConnection] RemoteAddr: 127.0.0.1:58283, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.06.25-13.23.43:880][453]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:58283, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.06.25-13.23.43:881][453]LogNetVersion: ISG 1.0.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 718921517)
+[2020.06.25-13.23.43:881][453]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.06.25-13.23.43:881][453]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: PendingNetDriver IpNetDriver_2, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2020.06.25-13.23.43:897][454]LogNet: NotifyAcceptingChannel Control 0 server World /Game/maps/UEDPIE_1_MAP_Garden.MAP_Garden: Accepted
+[2020.06.25-13.23.43:897][454]LogNet: Remote platform little endian=1
+[2020.06.25-13.23.43:897][454]LogNet: This platform little endian=1
+[2020.06.25-13.23.43:897][454]LogNet: NotifyAcceptingChannel Control 0 server World /Game/maps/UEDPIE_1_MAP_Garden.MAP_Garden: Accepted
+[2020.06.25-13.23.43:897][454]LogNet: Remote platform little endian=1
+[2020.06.25-13.23.43:897][454]LogNet: This platform little endian=1
+[2020.06.25-13.23.43:898][454]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.06.25-13.23.43:900][454]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.06.25-13.23.43:915][455]LogNet: Login request: /Game/MainMenuRelated/MM_Level?Name=JOEYCOMPUTER-CBBE703C4681BDFA61B7F88C31391E18 userId: NULL:JOEYCOMPUTER-CBBE703C4681BDFA61B7F88C31391E18 platform: NULL
+[2020.06.25-13.23.43:915][455]LogNet: Login request: /Game/MainMenuRelated/MM_Level?Name=JOEYCOMPUTER-7BC5EA664FF168861D1AAABBAE3C2DDC userId: NULL:JOEYCOMPUTER-7BC5EA664FF168861D1AAABBAE3C2DDC platform: NULL
+[2020.06.25-13.23.43:917][455]LogNet: Welcomed by server (Level: /Game/maps/UEDPIE_1_MAP_Garden, Game: /Game/GameRelated/Gamemodes/GM_BaseGamemode.GM_BaseGamemode_C)
+[2020.06.25-13.23.43:917][455]LogLoad: LoadMap: 127.0.0.1:17777//Game/maps/UEDPIE_1_MAP_Garden?game=/Game/GameRelated/Gamemodes/GM_BaseGamemode.GM_BaseGamemode_C
+[2020.06.25-13.23.43:917][455]LogWorld: BeginTearingDown for /Temp/Untitled_1
+[2020.06.25-13.23.43:917][455]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-13.23.43:968][455]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.06.25-13.23.43:983][455]LogAIModule: Creating AISystem for world MAP_Garden
+[2020.06.25-13.23.43:984][455]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.06.25-13.23.43:989][455]LogWorld: Bringing World /Game/maps/UEDPIE_2_MAP_Garden.MAP_Garden up for play (max tick rate 0) at 2020.06.25-15.23.43
+[2020.06.25-13.23.43:990][455]LogWorld: Bringing up level for play took: 0.005333
+[2020.06.25-13.23.43:990][455]LogLoad: Took 0.072701 seconds to LoadMap(/Game/maps/UEDPIE_1_MAP_Garden)
+[2020.06.25-13.23.43:990][455]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2020.06.25-13.23.43:990][455]LogNet: Welcomed by server (Level: /Game/maps/UEDPIE_1_MAP_Garden, Game: /Game/GameRelated/Gamemodes/GM_BaseGamemode.GM_BaseGamemode_C)
+[2020.06.25-13.23.43:990][455]LogLoad: LoadMap: 127.0.0.1:17777//Game/maps/UEDPIE_1_MAP_Garden?game=/Game/GameRelated/Gamemodes/GM_BaseGamemode.GM_BaseGamemode_C
+[2020.06.25-13.23.43:990][455]LogWorld: BeginTearingDown for /Temp/Untitled_2
+[2020.06.25-13.23.43:991][455]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-13.23.44:035][455]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.06.25-13.23.44:049][455]LogAIModule: Creating AISystem for world MAP_Garden
+[2020.06.25-13.23.44:049][455]LogTemp: Display: ParseSettings for GameNetDriver
+[2020.06.25-13.23.44:053][455]LogWorld: Bringing World /Game/maps/UEDPIE_3_MAP_Garden.MAP_Garden up for play (max tick rate 0) at 2020.06.25-15.23.44
+[2020.06.25-13.23.44:054][455]LogWorld: Bringing up level for play took: 0.004536
+[2020.06.25-13.23.44:054][455]LogLoad: Took 0.063615 seconds to LoadMap(/Game/maps/UEDPIE_1_MAP_Garden)
+[2020.06.25-13.23.44:054][455]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2020.06.25-13.23.44:083][456]LogNet: Client netspeed is 10000
+[2020.06.25-13.23.44:083][456]LogNet: Join request: /Game/MainMenuRelated/MM_Level?Name=JOEYCOMPUTER-CBBE703C4681BDFA61B7F88C31391E18?SplitscreenCount=1
+[2020.06.25-13.23.44:084][456]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.06.25-13.23.44:087][456]LogNet: Join succeeded: JOEYCOMPUTER-CBBE703
+[2020.06.25-13.23.44:087][456]LogNet: Client netspeed is 10000
+[2020.06.25-13.23.44:087][456]LogNet: Join request: /Game/MainMenuRelated/MM_Level?Name=JOEYCOMPUTER-7BC5EA664FF168861D1AAABBAE3C2DDC?SplitscreenCount=1
+[2020.06.25-13.23.44:088][456]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.06.25-13.23.44:089][456]LogNet: Join succeeded: JOEYCOMPUTER-7BC5EA6
+[2020.06.25-13.23.44:092][456]LogVoiceEngine: Error: OSS: StopLocalVoiceProcessing: Ignoring stop request for non-owning user
+[2020.06.25-13.23.44:092][456]LogOnlineVoice: OSS: StopLocalVoiceProcessing(0) returned 0xFFFFFFFF
+[2020.06.25-13.23.44:092][456]LogOnlineVoice: OSS: Stopping networked voice for user: 0
+[2020.06.25-13.23.44:093][456]LogVoiceEngine: Error: OSS: StopLocalVoiceProcessing: Ignoring stop request for non-owning user
+[2020.06.25-13.23.44:093][456]LogOnlineVoice: OSS: StopLocalVoiceProcessing(0) returned 0xFFFFFFFF
+[2020.06.25-13.23.44:093][456]LogOnlineVoice: OSS: Stopping networked voice for user: 0
+[2020.06.25-13.23.44:341][469]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.06.25-13.23.44:375][471]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.06.25-13.23.44:446][475]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.06.25-13.23.44:501][478]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.06.25-13.23.44:726][491]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.06.25-13.23.44:763][493]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2020.06.25-13.23.45:422][532]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.45:422][532]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.45:422][532]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.45:422][532]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.45:477][535]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.45:477][535]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.45:477][535]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.45:477][535]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.46:423][590]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.46:423][590]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.46:423][590]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.46:423][590]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.46:475][593]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.46:475][593]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.46:475][593]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.46:475][593]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.47:419][650]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.47:419][650]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.47:419][650]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.47:419][650]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.47:472][653]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.47:472][653]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.47:472][653]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.47:472][653]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.48:211][698]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Crashed, SessionId={FB349680-42EF-5ACC-820F-278D8C4771B7}
+[2020.06.25-13.23.48:418][710]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.48:418][710]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.48:418][710]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.48:418][710]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.48:477][713]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.48:477][713]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.48:477][713]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.48:477][713]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.49:420][768]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.49:420][768]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.49:420][768]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.49:420][768]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.49:465][771]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.49:465][771]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.49:465][771]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.49:465][771]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.50:424][831]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.50:424][831]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.50:424][831]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.50:424][831]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.50:469][834]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.50:469][834]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.50:469][834]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.50:469][834]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.51:412][891]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.51:413][891]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.51:413][891]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.51:413][891]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.51:472][895]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.51:472][895]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.51:472][895]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.51:472][895]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.52:409][956]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.52:409][956]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.52:409][956]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.52:409][956]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.52:474][960]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.52:474][960]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.52:474][960]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.52:474][960]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.53:412][ 20]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.53:412][ 20]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.53:412][ 20]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.53:412][ 20]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.53:479][ 24]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.53:479][ 24]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.53:479][ 24]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.53:479][ 24]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.54:420][ 85]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.54:420][ 85]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.54:420][ 85]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.54:420][ 85]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.54:466][ 88]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.54:466][ 88]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.54:466][ 88]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.54:466][ 88]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.55:413][147]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.55:413][147]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.55:413][147]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.55:413][147]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.55:464][150]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.55:464][150]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.55:464][150]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.55:464][150]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.56:421][207]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.56:421][207]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.56:421][207]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.56:421][207]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.56:470][210]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.56:470][210]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.56:470][210]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.56:470][210]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.57:410][269]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.57:410][269]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.57:410][269]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.57:410][269]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.57:475][273]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.57:476][273]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.57:476][273]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.57:476][273]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.58:423][331]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.58:423][331]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.58:423][331]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.58:423][331]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.58:475][334]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.58:476][334]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.58:476][334]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.58:476][334]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.59:362][389]LogBlueprintUserMessages: [GM_BaseGamemode_C_0] Server: TO BOMBER
+[2020.06.25-13.23.59:411][392]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.59:411][392]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.59:411][392]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.59:411][392]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.23.59:472][396]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.23.59:472][396]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.23.59:472][396]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.23.59:472][396]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.24.00:419][458]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.24.00:419][458]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.24.00:419][458]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.24.00:419][458]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.24.00:469][461]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.24.00:469][461]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.24.00:469][461]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.24.00:469][461]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.24.01:417][523]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.24.01:417][523]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.24.01:417][523]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.24.01:417][523]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.24.01:467][526]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.24.01:467][526]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.24.01:467][526]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.24.01:467][526]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.24.02:413][589]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.24.02:413][589]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.24.02:413][589]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.24.02:413][589]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.24.02:462][592]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE4. Function AppleTimer will not be processed.
+[2020.06.25-13.24.02:462][592]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE3. Function AppleTimer will not be processed.
+[2020.06.25-13.24.02:462][592]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE2. Function AppleTimer will not be processed.
+[2020.06.25-13.24.02:462][592]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor POTTREE_98. Function AppleTimer will not be processed.
+[2020.06.25-13.24.02:970][626]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/maps/MAP_Garden.MAP_Garden:PersistentLevel' has LevelScriptBlueprint '/Game/maps/MAP_Garden.MAP_Garden:PersistentLevel.MAP_Garden' with GeneratedClass '/Game/maps/MAP_Garden.MAP_Garden_C' with ClassGeneratedBy '/Game/maps/MAP_Garden.MAP_Garden:PersistentLevel.MAP_Garden'
+[2020.06.25-13.24.02:970][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.25-13.24.02:970][626]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_3_MAP_Garden
+[2020.06.25-13.24.02:987][626]LogSlate: Window 'ISmellGunPowder Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.25-13.24.02:989][626]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor MyPlayer_C_2. Function SRV_DestroyPlayer will not be processed.
+[2020.06.25-13.24.02:990][626]LogWorld: UWorld::CleanupWorld for MAP_Garden, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-13.24.03:000][626]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2020.06.25-13.24.03:000][626]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2020.06.25-13.24.03:000][626]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:JOEYCOMPUTER-7BC5EA664FF168861D1AAABBAE3C2DDC, Channels: 103, Time: 2020.06.25-13.24.03
+[2020.06.25-13.24.03:000][626]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:JOEYCOMPUTER-7BC5EA664FF168861D1AAABBAE3C2DDC
+[2020.06.25-13.24.03:000][626]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2020.06.25-13.24.03:001][626]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_2_MAP_Garden
+[2020.06.25-13.24.03:002][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.25-13.24.03:014][626]LogSlate: Window 'ISmellGunPowder Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.25-13.24.03:016][626]LogNet: Warning: UNetDriver::ProcessRemoteFunction: No owning connection for actor MyPlayer_C_1. Function SRV_DestroyPlayer will not be processed.
+[2020.06.25-13.24.03:016][626]LogWorld: UWorld::CleanupWorld for MAP_Garden, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-13.24.03:022][626]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2020.06.25-13.24.03:022][626]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2020.06.25-13.24.03:022][626]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:JOEYCOMPUTER-CBBE703C4681BDFA61B7F88C31391E18, Channels: 103, Time: 2020.06.25-13.24.03
+[2020.06.25-13.24.03:022][626]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:JOEYCOMPUTER-CBBE703C4681BDFA61B7F88C31391E18
+[2020.06.25-13.24.03:022][626]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2020.06.25-13.24.03:023][626]LogWorld: BeginTearingDown for /Game/maps/UEDPIE_1_MAP_Garden
+[2020.06.25-13.24.03:023][626]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2020.06.25-13.24.03:024][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.25-13.24.03:037][626]LogSlate: Window 'ISmellGunPowder Game Preview Server (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.25-13.24.03:043][626]LogWorld: UWorld::CleanupWorld for MAP_Garden, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-13.24.03:059][626]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2020.06.25-13.24.03:059][626]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2020.06.25-13.24.03:059][626]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:58283, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:JOEYCOMPUTER-7BC5EA664FF168861D1AAABBAE3C2DDC
+[2020.06.25-13.24.03:059][626]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:58283, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:JOEYCOMPUTER-7BC5EA664FF168861D1AAABBAE3C2DDC, Channels: 103, Time: 2020.06.25-13.24.03
+[2020.06.25-13.24.03:059][626]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:58283, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_2, Owner: PlayerController_2, UniqueId: NULL:JOEYCOMPUTER-7BC5EA664FF168861D1AAABBAE3C2DDC
+[2020.06.25-13.24.03:060][626]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:58282, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:JOEYCOMPUTER-CBBE703C4681BDFA61B7F88C31391E18
+[2020.06.25-13.24.03:060][626]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:58282, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:JOEYCOMPUTER-CBBE703C4681BDFA61B7F88C31391E18, Channels: 103, Time: 2020.06.25-13.24.03
+[2020.06.25-13.24.03:060][626]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:58282, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:JOEYCOMPUTER-CBBE703C4681BDFA61B7F88C31391E18
+[2020.06.25-13.24.03:060][626]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2020.06.25-13.24.03:061][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.25-13.24.03:061][626]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/maps/MAP_Garden.MAP_Garden:PersistentLevel' has LevelScriptBlueprint '/Game/maps/MAP_Garden.MAP_Garden:PersistentLevel.MAP_Garden' with GeneratedClass '/Game/maps/MAP_Garden.MAP_Garden_C' with ClassGeneratedBy '/Game/maps/MAP_Garden.MAP_Garden:PersistentLevel.MAP_Garden'
+[2020.06.25-13.24.03:115][626]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.06.25-13.24.03:178][627]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.06.25-13.24.03:178][627]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.06.25-13.24.03:178][627]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.06.25-13.24.17:514][133]LogEditorTransaction: Undo Delete current selection
+[2020.06.25-13.24.48:211][231]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Crashed, SessionId={A88DCE11-4A25-F4F8-0F10-C89C1A4098AB}
+[2020.06.25-13.24.51:611][591]BlueprintLog: New page: Compile Button
+[2020.06.25-13.24.51:832][591]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.06.25-13.25.48:217][196]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Crashed, SessionId={34A37731-4E29-FA06-A524-52A147C05CA1}
+[2020.06.25-13.25.55:637][939]BlueprintLog: New page: Compile Button
+[2020.06.25-13.25.55:848][939]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.06.25-13.25.56:098][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Button/Button" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Button/Button.uasset" SILENT=true
+[2020.06.25-13.25.57:928][954]LogWindows: Error: === Critical error: ===
+[2020.06.25-13.25.57:929][954]LogWindows: Error: 
+[2020.06.25-13.25.57:929][954]LogWindows: Error: Fatal error!
+[2020.06.25-13.25.57:929][954]LogWindows: Error: 
+[2020.06.25-13.25.57:929][954]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION 0xcd4d8800
+[2020.06.25-13.25.57:929][954]LogWindows: Error: 
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x000001bacd4d8800 UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa75a1e852 UE4Editor-Core.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa75a778b3 UE4Editor-Core.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa75a1113b UE4Editor-Core.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa7e757b26 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa7e74e443 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa7e74d556 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa7e67be77 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa7e65ba9c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa7e86ffa5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa5b8a795f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa5b8a82f7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa5b8df3b8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa5b8dbc3b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa5c0a7cd0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa5bc1bd52 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa5bc1a860 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa5bc2f046 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa5c049c66 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa5c01cd28 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa73637fda UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa7371a262 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa736fccf4 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa737958b8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa737b14b1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa735f5231 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa7367b4f1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa736652e8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffa73659c91 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffaadc94e02 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffaadc826df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffaadc97340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffaadc7edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffac2475c0d USER32.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffac2475602 USER32.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffaadc988e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ff7ae946980 UE4Editor.exe!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ff7ae95a91c UE4Editor.exe!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ff7ae95a9fa UE4Editor.exe!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ff7ae96b92c UE4Editor.exe!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ff7ae96e60e UE4Editor.exe!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffac2197bd4 KERNEL32.DLL!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: [Callstack] 0x00007ffac3c0ce51 ntdll.dll!UnknownFunction []
+[2020.06.25-13.25.57:929][954]LogWindows: Error: 
+[2020.06.25-13.25.57:937][954]LogExit: Executing StaticShutdownAfterError
+[2020.06.25-13.25.57:941][954]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.06.25-13.25.57:973][954]Log file closed, 06/25/20 15:25:57
