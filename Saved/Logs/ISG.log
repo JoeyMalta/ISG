@@ -1706,3 +1706,1253 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.25-12.48.09:650][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
 [2020.06.25-12.48.09:879][928]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MAP_Garden1E24AC5F44A69CC0F5C08EB3AB7E5D6A.tmp' to 'Z:/ISG_/ISG/Content/maps/MAP_Garden.umap'
 [2020.06.25-12.48.09:907][928]LogFileHelpers: Saving map 'MAP_Garden' took 0.280
+[2020.06.25-12.53.18:874][308]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.25-12.53.25:129][955]LogAIModule: Creating AISystem for world Demo_Cartoony_Impact_-_Stylized_Particle_Simulation_1
+[2020.06.25-12.53.25:283][955]LogAIModule: Creating AISystem for world Overview_Cartoony_Impact_-_Stylized_Particle_Simulation_1
+[2020.06.25-12.53.25:504][955]LogAIModule: Creating AISystem for world o
+[2020.06.25-12.53.25:586][955]LogAIModule: Creating AISystem for world MAP_Lobby
+[2020.06.25-12.53.25:643][955]LogAIModule: Creating AISystem for world MM_Level
+[2020.06.25-12.53.26:043][955]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Explosion01': Can't find file.
+[2020.06.25-12.53.26:043][955]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Explosion01': Can't find file.
+[2020.06.25-12.53.26:043][955]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Explosion01.Explosion01'
+[2020.06.25-12.53.26:043][955]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Explosion02': Can't find file.
+[2020.06.25-12.53.26:043][955]LogLinker: Warning: Failed to load '/Game/StarterContent/Audio/Explosion02': Can't find file.
+[2020.06.25-12.53.26:043][955]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/StarterContent/Audio/Explosion02.Explosion02'
+[2020.06.25-12.53.26:080][955]LoadErrors: Error: The BlendSpace  Bomber_GuyDefaultRig_Skeleton_BlendSpace1D  has sample with no animation. Recommend to remove sample point or set new animation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/PlayerRelated/PlayerModels/BomberGuy/Bomber_GuyDefaultRig_Skeleton has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/PlayerRelated/PlayerAnimation/Basic_Animations/Bomber_GuyIdle has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimCenter has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimDown has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimDownLeft has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimDownRight has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimLeft has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimRight has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimUp has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimUpLeft has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimUpRight has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/PlayerRelated/PlayerModels/BomberGuy/Bomber_GuyDefaultRig_Skeleton_AimOffset2D has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/PlayerRelated/PlayerAnimation/Basic_Animations/Bomber_GuyRunning has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/PlayerRelated/PlayerAnimation/Basic_Animations/Bomber_GuyWalk has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/PlayerRelated/PlayerAnimation/NewBlendSpace1D has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/MyAssets/Models/C4/C5 has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/MyAssets/Models/C4/palette has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/MyAssets/Models/C4/C4 has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/MyAssets/Fonts/Oxanium-Medium has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/MyAssets/Fonts/Oxanium-Medium_Font has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/MyAssets/Models/Bin/Bin1 has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/MyAssets/Models/Bin/palette has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/MyAssets/Models/Bin/Bin has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/MyAssets/Models/Button/buttonbot1 has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/MyAssets/Models/Button/palette has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/MyAssets/Models/Button/ButtonTop has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/MyAssets/Models/Button/buttonbot has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/SpectatorRelated/BirdWing has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/SpectatorRelated/palette has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/SpectatorRelated/PigeonSpec_PhysicsAsset has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/SpectatorRelated/PigeonSpec_Skeleton has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/SpectatorRelated/PigeonSpec has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/PlayerRelated/PlayerModels/BunnyGuy/Bunny_Body has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/PlayerRelated/PlayerModels/BunnyGuy/palette has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/PlayerRelated/PlayerModels/BomberGuy/Bomber_GuyDefaultRig_PhysicsAsset has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/PlayerRelated/PlayerModels/BunnyGuy/Bunny_GuyDefaultRig has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/SpectatorRelated/PigeonSpec_Anim has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/MyAssets/Models/Table/Table1 has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/MyAssets/Models/Table/table11 has no data validation.
+[2020.06.25-12.53.26:191][955]AssetCheck: /Game/MyAssets/Models/Chair/Chair has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Models/Parkbench/Parkbench1 has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Models/Parkbench/palette has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Models/Parkbench/Parkbench has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Models/Table/Table has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/M_BubbleCell has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/MI_BubbleCellParticle has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Geometry/SM_Bubble has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Particle/SwapParticle has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Textures/T_BlastFire has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Textures/T_FireGradient has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/M_Blast has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/M_BlastSphere has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Textures/T_BlastWave has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/M_BlastWave has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Textures/T_FireNugget has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/M_FireNugget has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/MI_BubbleCellParticle2 has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Textures/T_Splash has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/M_Splash has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/MI_Splash_Inst has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Geometry/SM_BlastFire has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Geometry/SM_BlastSphere has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Particle/ExplodeParticle has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Sound/Explosion02 has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/PlayerRelated/PlayerModels/BomberGuy/Bomber has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/PlayerRelated/PlayerModels/BomberGuy/Bomber_Mat has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/PlayerRelated/PlayerModels/BomberGuy/Bomber_GuyDefaultRig has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Models/PlantPot/PLANTPOT has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Models/Fountain/Fountain has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Models/Fountain/palette has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Models/Fountain/Fountain1 has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_FireTrails4 has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Textures/FloorTile_Mat4 has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Textures/FloorTile_Mat3 has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Textures/FloorTile_Mat2 has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Textures/FloorTile_Mat1 has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Models/Fountain/Water has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Models/Mushrooms/BoomShroom1 has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Models/Mushrooms/palette has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Models/Mushrooms/BoomShroom has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Sound/Explosion01 has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Models/PlantPot/POTTREE has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Models/PlantPot/palette has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Models/PlantPot/PLANTPOT1 has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MainMenuRelated/Widgets/MainMenuButtonType has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Textures/Multiplayer has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Textures/QuitGame has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Models/Food/Apple/APPLE has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Models/Food/Apple/palette has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Models/Food/Apple/APPLE1 has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MainMenuRelated/Widgets/SettingsButtonType has no data validation.
+[2020.06.25-12.53.26:192][955]AssetCheck: /Game/MyAssets/Fonts/Oxanium-Regular_Font has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/MyAssets/Fonts/Oxanium-Regular has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/MyAssets/Materials/Basic_Grey has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/MyAssets/Textures/FloorTile has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/MyAssets/Textures/FloorTile_Mat has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/MyAssets/Models/Containers/Container1 has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/MyAssets/Models/Containers/palette has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/MyAssets/Models/Containers/Container has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/MyAssets/Models/Forklift/Forklift1 has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/MyAssets/Models/Forklift/palette has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/MyAssets/Models/Forklift/Forklift has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/MyAssets/Models/LaunchPad/JumpPad1 has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/MyAssets/Models/LaunchPad/palette has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/MyAssets/Models/LaunchPad/LaunchTest2 has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/maps/MAP_Garden has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/maps/MAP_Garden_BuiltData has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Maps/Demo_Cartoony_Impact_-_Stylized_Particle_Simulation_1 has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Maps/Demo_Cartoony_Impact_-_Stylized_Particle_Simulation_1 has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Maps/Overview_Cartoony_Impact_-_Stylized_Particle_Simulation_1 has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Maps/Overview_Cartoony_Impact_-_Stylized_Particle_Simulation_1 has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/MI_BubbleCell has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/M_Lightning has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/M_Rain has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/M_RainFlash has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_AirBoom has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_BlastFire has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_BlastFire2 has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_BlastSphere has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_BlastWave has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_Boom has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_Boom2 has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_FireSparks has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_FireTrails has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_FireTrails2 has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_FireTrails3 has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_Lighting has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_Lightning2 has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_Rain has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_Smoke has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_Smoke2 has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_Splash has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Textures/T_Lightning has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/GameRelated/Levels/MAP_Factory has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/GameRelated/Levels/MAP_Factory has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/GameRelated/Levels/MAP_Lobby has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/GameRelated/Levels/MAP_Lobby_BuiltData has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/GameRelated/Levels/o has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/GameRelated/Levels/o_BuiltData has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/MainMenuRelated/MM_Level has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/MainMenuRelated/MM_Level_BuiltData has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/MyAssets/Fonts/Oxanium-Bold has no data validation.
+[2020.06.25-12.53.26:193][955]AssetCheck: /Game/MyAssets/Fonts/Oxanium-Bold_Font has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Fonts/Oxanium-ExtraBold has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Fonts/Oxanium-ExtraBold_Font has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Fonts/Oxanium-ExtraLight has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Fonts/Oxanium-ExtraLight_Font has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Fonts/Oxanium-Light has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Fonts/Oxanium-Light_Font has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Fonts/Oxanium-SemiBold has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Fonts/Oxanium-SemiBold_Font has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Materials/Basic_White has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Models/Adrenaline/Adrenaline has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Models/Adrenaline/Adrenaline1 has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Models/Adrenaline/palette has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Models/Chair/Chair1 has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Models/Chair/palette has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Models/Door/Door has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Models/Door/Door1 has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Models/Door/palette has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Models/Floor/Floor has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Models/Floor/Floor1 has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Models/Floor/palette has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Models/FloorTiles/DEFAULTFLOORTILE has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Models/FloorTiles/DEFAULTFLOORTILE1 has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Models/FloorTiles/palette has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Models/LandMine/LandMine has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Models/LandMine/LandMine1 has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Models/LandMine/palette has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Models/Pigeon/palette has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Models/Pigeon/Pigeon has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Models/Pigeon/Pigeon1 has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Sound/Explosion_Cue has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Textures/Bomb has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/MyAssets/Textures/ExitGame has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/PlayerRelated/PlayerModels/BomberGuy/Bomber_GuyDefaultRig_Skeleton_BlendSpace has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/PlayerRelated/PlayerModels/BomberGuy/Bomber_GuyDefaultRig_Skeleton_BlendSpace1D has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/PlayerRelated/PlayerModels/BomberGuy/Bunny has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/PlayerRelated/PlayerModels/BunnyGuy/Bunny has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/PlayerRelated/PlayerModels/BunnyGuy/Bunny_GuyDefaultRig_Anim has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: /Game/PlayerRelated/PlayerModels/BunnyGuy/Bunny_GuyDefaultRig_PhysicsAsset has no data validation.
+[2020.06.25-12.53.26:194][955]AssetCheck: Data validation SUCCEEDED. Files Checked: 227, Passed: 46, Failed: 0, Skipped: 0, Unable to validate: 181
+[2020.06.25-12.53.27:640][ 96]LogSlate: Window 'Message Log' being destroyed
+[2020.06.25-12.53.27:648][ 96]LogSlate: Window 'Message Log' being destroyed
+[2020.06.25-12.53.31:496][551]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.32:893][713]LogSlate: Window 'Message Log' being destroyed
+[2020.06.25-12.53.32:899][713]LogSlate: Window 'Message Log' being destroyed
+[2020.06.25-12.53.33:183][747]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.33:231][751]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.33:261][754]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.33:297][757]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.33:334][760]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.33:368][763]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.33:407][766]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.33:443][769]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.33:484][772]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.33:714][798]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.33:748][801]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.33:781][804]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.33:818][807]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.33:852][810]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.33:889][813]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.33:923][816]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.33:961][819]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.34:073][831]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.34:102][834]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.34:141][836]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/PlayerRelated/PlayerModels/BomberGuy/Bomber_GuyDefaultRig_Skeleton_BlendSpace1D.Bomber_GuyDefaultRig_Skeleton_BlendSpace1D
+[2020.06.25-12.53.34:289][836]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.06.25-12.53.34:834][836]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.25-12.53.34:874][836]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2020.06.25-12.53.35:010][836]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.25-12.53.35:647][836]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.06.25-12.53.36:115][877]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.36:146][880]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.36:184][883]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.36:218][886]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.36:258][889]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.36:297][892]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.36:342][895]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.36:383][898]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.41:827][445]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.45:346][775]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/PlayerRelated/PlayerModels/BomberGuy/Bomber_GuyDefaultRig_Skeleton.Bomber_GuyDefaultRig_Skeleton
+[2020.06.25-12.53.45:372][775]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.25-12.53.45:403][775]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.25-12.53.46:286][851]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/PlayerRelated/PlayerModels/BunnyGuy/Bunny_GuyDefaultRig.Bunny_GuyDefaultRig
+[2020.06.25-12.53.46:311][851]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.25-12.53.46:338][851]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.25-12.53.51:857][303]LogSkeletalMesh: Building Skeletal Mesh Bunny_GuyDefaultRig...
+[2020.06.25-12.53.51:874][303]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/PlayerRelated/PlayerModels/BunnyGuy/Bunny_GuyDefaultRig.Bunny_GuyDefaultRig
+[2020.06.25-12.53.54:097][484]LogSkeletalMesh: Building Skeletal Mesh Bunny_GuyDefaultRig...
+[2020.06.25-12.53.54:098][484]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PlayerRelated/PlayerModels/BunnyGuy/Bunny_GuyDefaultRig.Bunny_GuyDefaultRig
+[2020.06.25-12.53.56:083][683]LogSlate: Window 'Bunny_GuyDefaultRig' being destroyed
+[2020.06.25-12.53.56:089][683]LogSlate: Window 'Bunny_GuyDefaultRig' being destroyed
+[2020.06.25-12.53.56:089][683]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.53.56:223][683]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.53.56:237][683]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.53.56:332][683]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.53.56:887][739]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.57:182][773]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.57:211][776]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.57:243][779]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.57:272][782]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.57:302][785]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.57:333][788]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.57:363][791]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.57:398][794]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.57:425][797]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.57:457][800]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.57:575][814]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.57:600][817]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.57:630][820]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.57:663][823]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.57:692][826]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.57:723][829]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.57:748][832]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.57:778][835]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.57:808][838]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.57:835][841]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.57:874][844]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.57:909][847]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.57:939][850]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.57:964][853]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:003][856]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:030][859]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:063][862]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:091][865]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:125][868]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:153][871]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:183][874]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:210][877]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:241][880]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:270][883]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:295][886]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:326][889]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:354][892]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:385][895]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:414][898]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:449][901]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:479][904]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:510][907]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:545][910]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:575][913]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:603][916]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:632][919]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:663][922]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:691][925]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:725][928]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:751][931]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.58:944][944]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.06.25-12.53.59:734][944]LogSlate: Window 'Save Content' being destroyed
+[2020.06.25-12.53.59:764][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/PlayerModels/BunnyGuy/Bunny_GuyDefaultRig" FILE="Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BunnyGuy/Bunny_GuyDefaultRig.uasset" SILENT=true
+[2020.06.25-12.53.59:788][944]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bunny_GuyDefaultRigF853139749466F831EFAF2806804A3AC.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BunnyGuy/Bunny_GuyDefaultRig.uasset'
+[2020.06.25-12.53.59:875][952]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.59:901][955]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.59:929][958]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.59:960][961]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.53.59:990][964]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:022][967]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:049][970]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:082][973]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:110][976]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:146][979]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:179][982]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:212][985]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:238][988]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:264][991]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:294][994]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:322][997]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:350][  0]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:377][  3]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:405][  6]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:434][  9]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:460][ 12]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:491][ 15]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:519][ 18]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:551][ 21]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:577][ 24]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:607][ 27]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:639][ 30]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:689][ 33]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:713][ 36]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:741][ 39]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:769][ 42]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:795][ 45]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:832][ 48]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:864][ 51]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:892][ 54]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.00:919][ 57]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.01:011][ 68]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.01:038][ 71]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.01:079][ 74]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/PlayerRelated/PlayerModels/BomberGuy/Bomber_GuyDefaultRig.Bomber_GuyDefaultRig
+[2020.06.25-12.54.01:087][ 74]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.25-12.54.01:117][ 74]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.25-12.54.01:262][ 74]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.01:371][ 77]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.01:407][ 80]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.01:451][ 83]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.01:490][ 86]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.01:527][ 89]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.01:565][ 92]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.01:601][ 95]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.01:699][105]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.01:734][108]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.01:762][109]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/PlayerRelated/PlayerModels/BomberGuy/Bomber_GuyDefaultRig_PhysicsAsset.Bomber_GuyDefaultRig_PhysicsAsset
+[2020.06.25-12.54.01:832][109]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2020.06.25-12.54.01:858][109]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2020.06.25-12.54.02:371][111]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.02:420][114]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.02:473][117]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.02:523][120]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.02:567][123]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.02:609][126]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.02:652][129]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.02:691][132]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.02:736][135]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.02:782][138]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.03:832][237]LogSlate: Window 'Bomber_GuyDefaultRig_PhysicsAsset' being destroyed
+[2020.06.25-12.54.03:838][237]LogSlate: Window 'Bomber_GuyDefaultRig_PhysicsAsset' being destroyed
+[2020.06.25-12.54.03:838][237]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.03:928][237]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.04:043][238]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.04:083][241]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.04:108][244]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.04:250][260]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.04:277][263]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.04:305][266]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.04:337][269]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.04:363][272]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.04:459][283]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.04:487][286]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.04:520][289]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.04:573][292]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.04:614][295]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.04:647][298]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.04:675][301]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.04:705][304]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.04:736][307]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.04:765][310]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.04:794][313]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.04:828][316]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.04:867][319]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.04:897][322]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.04:924][325]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.04:957][328]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.04:987][331]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.05:018][334]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.05:046][337]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.05:076][340]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.05:103][343]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.05:128][346]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.05:162][349]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.05:191][352]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.05:221][355]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.05:248][358]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.05:277][361]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.05:306][364]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.05:333][367]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.05:363][370]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.05:391][373]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.05:421][376]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.05:447][379]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.06:739][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/Levels/MAP_Lobby" FILE="Z:/ISG_/ISG/Content/GameRelated/Levels/MAP_Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.25-12.54.06:837][524]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2020.06.25-12.54.07:019][524]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MAP_Lobby1129515F4D9DD8903F3C9C80E553B7EA.tmp' to 'Z:/ISG_/ISG/Content/GameRelated/Levels/MAP_Lobby.umap'
+[2020.06.25-12.54.07:039][524]LogFileHelpers: Saving map 'MAP_Lobby' took 0.300
+[2020.06.25-12.54.07:090][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.06.25-12.54.07:859][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.06.25-12.54.07:887][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.06.25-12.54.07:907][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.06.25-12.54.10:883][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bomber_GuyDefaultRig_Skeleton4B2568D74C273B3B7B2339A553028928.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BomberGuy/Bomber_GuyDefaultRig_Skeleton.uasset'
+[2020.06.25-12.54.10:935][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bomber_GuyIdle3628BFD54D63F06B231D689BCF20FE23.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerAnimation/Basic_Animations/Bomber_GuyIdle.uasset'
+[2020.06.25-12.54.10:947][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimCenter" FILE="Z:/ISG_/ISG/Content/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimCenter.uasset" SILENT=true
+[2020.06.25-12.54.10:970][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bomber_GuyAimCenter6762083842B4C98786F2C79E6E7FA653.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimCenter.uasset'
+[2020.06.25-12.54.10:982][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimDown" FILE="Z:/ISG_/ISG/Content/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimDown.uasset" SILENT=true
+[2020.06.25-12.54.11:003][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bomber_GuyAimDownEE17FAFF457B0BD5B2E366922B1F55C6.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimDown.uasset'
+[2020.06.25-12.54.11:016][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimDownLeft" FILE="Z:/ISG_/ISG/Content/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimDownLeft.uasset" SILENT=true
+[2020.06.25-12.54.11:038][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bomber_GuyAimDownLeft923C3F8742DE33EDC92139830FF295FB.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimDownLeft.uasset'
+[2020.06.25-12.54.11:072][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bomber_GuyAimDownRight4CA78AC9450666687E169D831C5C889C.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimDownRight.uasset'
+[2020.06.25-12.54.11:085][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimLeft" FILE="Z:/ISG_/ISG/Content/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimLeft.uasset" SILENT=true
+[2020.06.25-12.54.11:107][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bomber_GuyAimLeftA747255345A883C5D90BF8B59C94F8EA.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimLeft.uasset'
+[2020.06.25-12.54.11:119][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimRight" FILE="Z:/ISG_/ISG/Content/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimRight.uasset" SILENT=true
+[2020.06.25-12.54.11:141][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bomber_GuyAimRight4BBE19E84B7E64D45ABEC98E442B870C.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimRight.uasset'
+[2020.06.25-12.54.11:152][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimUp" FILE="Z:/ISG_/ISG/Content/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimUp.uasset" SILENT=true
+[2020.06.25-12.54.11:174][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bomber_GuyAimUpAB73F44A4743207F2EB71CBE9C88FC2C.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimUp.uasset'
+[2020.06.25-12.54.11:186][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimUpLeft" FILE="Z:/ISG_/ISG/Content/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimUpLeft.uasset" SILENT=true
+[2020.06.25-12.54.11:208][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bomber_GuyAimUpLeftAC3079A94F0BFF6AD857B3962BECA295.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimUpLeft.uasset'
+[2020.06.25-12.54.11:220][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimUpRight" FILE="Z:/ISG_/ISG/Content/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimUpRight.uasset" SILENT=true
+[2020.06.25-12.54.11:242][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bomber_GuyAimUpRight26691816439B3909BB0A678FA7C18F44.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerAnimation/AimSpace/Bomber_GuyAimUpRight.uasset'
+[2020.06.25-12.54.11:278][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bomber_GuyDefaultRig_Skeleton_AiEF07D7FB4B7807D7B42EE8BFC9772638.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BomberGuy/Bomber_GuyDefaultRig_Skeleton_AimOffset2D.uasset'
+[2020.06.25-12.54.11:312][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bomber_GuyRunning03522BE04EF70B77219DFDB5009A53A6.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerAnimation/Basic_Animations/Bomber_GuyRunning.uasset'
+[2020.06.25-12.54.11:352][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bomber_GuyWalkCB3F68B943C64833537B27A5DE855B48.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerAnimation/Basic_Animations/Bomber_GuyWalk.uasset'
+[2020.06.25-12.54.11:364][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/PlayerAnimation/NewBlendSpace1D" FILE="Z:/ISG_/ISG/Content/PlayerRelated/PlayerAnimation/NewBlendSpace1D.uasset" SILENT=true
+[2020.06.25-12.54.11:389][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/NewBlendSpace1D95EB602D41F3EAFCC52ADFBBFBEE0549.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerAnimation/NewBlendSpace1D.uasset'
+[2020.06.25-12.54.11:392][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/MyPlayer" FILE="Z:/ISG_/ISG/Content/PlayerRelated/MyPlayer.uasset" SILENT=true
+[2020.06.25-12.54.11:508][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MyPlayer3E6700994C32466BA8040895EF4B13E9.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/MyPlayer.uasset'
+[2020.06.25-12.54.11:511][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/PlayerComponents/HealthComponent" FILE="Z:/ISG_/ISG/Content/PlayerRelated/PlayerComponents/HealthComponent.uasset" SILENT=true
+[2020.06.25-12.54.11:583][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/HealthComponentAEFB99B7420F517B92CAA48ACEB2375B.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerComponents/HealthComponent.uasset'
+[2020.06.25-12.54.11:595][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/PlayerAnimation/NewAnimBlueprint" FILE="Z:/ISG_/ISG/Content/PlayerRelated/PlayerAnimation/NewAnimBlueprint.uasset" SILENT=true
+[2020.06.25-12.54.11:660][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/NewAnimBlueprint95A64C2942044C0E76F3E1AD4BD54748.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerAnimation/NewAnimBlueprint.uasset'
+[2020.06.25-12.54.11:663][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/PlayerComponents/StaminaComponent" FILE="Z:/ISG_/ISG/Content/PlayerRelated/PlayerComponents/StaminaComponent.uasset" SILENT=true
+[2020.06.25-12.54.11:750][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/StaminaComponent851C0FB1415D56E56FB19F94D25FABFC.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerComponents/StaminaComponent.uasset'
+[2020.06.25-12.54.11:753][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/C4/C5" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/C4/C5.uasset" SILENT=true
+[2020.06.25-12.54.11:771][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/C5DA51F76B41317D5502A8FDA29751BCBF.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/C4/C5.uasset'
+[2020.06.25-12.54.11:783][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/C4/palette" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/C4/palette.uasset" SILENT=true
+[2020.06.25-12.54.11:808][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/palette6A81B4E549F192F42DFCA484968C0D54.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/C4/palette.uasset'
+[2020.06.25-12.54.11:819][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/C4/C4" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/C4/C4.uasset" SILENT=true
+[2020.06.25-12.54.11:856][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/C4CE4AF31C497C72ECDF67F8B034C05309.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/C4/C4.uasset'
+[2020.06.25-12.54.11:859][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Fonts/Oxanium-Medium" FILE="Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-Medium.uasset" SILENT=true
+[2020.06.25-12.54.11:874][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Oxanium-MediumC06E723142873BF49189C88135AF9B95.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-Medium.uasset'
+[2020.06.25-12.54.11:882][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Fonts/Oxanium-Medium_Font" FILE="Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-Medium_Font.uasset" SILENT=true
+[2020.06.25-12.54.11:899][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Oxanium-Medium_FontA0572A7F42E06FD0508B3F9C5B5F1DD9.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-Medium_Font.uasset'
+[2020.06.25-12.54.11:903][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/Widgets/PlayerNameWidget/PlayerNameWidget" FILE="Z:/ISG_/ISG/Content/PlayerRelated/Widgets/PlayerNameWidget/PlayerNameWidget.uasset" SILENT=true
+[2020.06.25-12.54.11:929][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PlayerNameWidget86751B184015EE668B7FC5AA9760F627.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/Widgets/PlayerNameWidget/PlayerNameWidget.uasset'
+[2020.06.25-12.54.11:932][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActorRelated/Consumables/ConsumableInteraction" FILE="Z:/ISG_/ISG/Content/ActorRelated/Consumables/ConsumableInteraction.uasset" SILENT=true
+[2020.06.25-12.54.11:949][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/ConsumableInteraction05B50D62425C9E95720EA3B90FB03809.tmp' to 'Z:/ISG_/ISG/Content/ActorRelated/Consumables/ConsumableInteraction.uasset'
+[2020.06.25-12.54.11:953][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Bin/Bin1" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Bin/Bin1.uasset" SILENT=true
+[2020.06.25-12.54.11:971][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bin10F77A5D74EBDF16952CA09AA22B13E7E.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Bin/Bin1.uasset'
+[2020.06.25-12.54.11:986][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Bin/palette" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Bin/palette.uasset" SILENT=true
+[2020.06.25-12.54.12:004][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/palette8F63BBAE438D2D017ED73C84A1AD3876.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Bin/palette.uasset'
+[2020.06.25-12.54.12:017][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Bin/Bin" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Bin/Bin.uasset" SILENT=true
+[2020.06.25-12.54.12:041][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/BinE690C30E48B23C75089E8DB539EEA341.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Bin/Bin.uasset'
+[2020.06.25-12.54.12:053][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Bin/BP_Bin" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Bin/BP_Bin.uasset" SILENT=true
+[2020.06.25-12.54.12:079][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/BP_Bin538A9872458095438D4476B59F2A8A41.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Bin/BP_Bin.uasset'
+[2020.06.25-12.54.12:098][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Button/Button" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Button/Button.uasset" SILENT=true
+[2020.06.25-12.54.12:142][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Button1DC6A38D46D40D2DA12C2099B77B0F8D.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Button/Button.uasset'
+[2020.06.25-12.54.12:146][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/Gamemodes/GM_BaseGamemode" FILE="Z:/ISG_/ISG/Content/GameRelated/Gamemodes/GM_BaseGamemode.uasset" SILENT=true
+[2020.06.25-12.54.12:191][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/GM_BaseGamemode1913105347EDA736047C869AF5B8DA5D.tmp' to 'Z:/ISG_/ISG/Content/GameRelated/Gamemodes/GM_BaseGamemode.uasset'
+[2020.06.25-12.54.12:194][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Button/buttonbot1" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Button/buttonbot1.uasset" SILENT=true
+[2020.06.25-12.54.12:210][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/buttonbot18CA3575F45D233439211398BFD19EC19.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Button/buttonbot1.uasset'
+[2020.06.25-12.54.12:224][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Button/palette" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Button/palette.uasset" SILENT=true
+[2020.06.25-12.54.12:243][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/palette6DF56B0D445C5CC1097DFE9476796FCB.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Button/palette.uasset'
+[2020.06.25-12.54.12:256][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Button/ButtonTop" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Button/ButtonTop.uasset" SILENT=true
+[2020.06.25-12.54.12:279][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/ButtonTopACEF3E1B465E7B7266D9C3B89D707A52.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Button/ButtonTop.uasset'
+[2020.06.25-12.54.12:290][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Button/buttonbot" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Button/buttonbot.uasset" SILENT=true
+[2020.06.25-12.54.12:316][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/buttonbot121696F442D710F3D7473EBE3D687700.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Button/buttonbot.uasset'
+[2020.06.25-12.54.12:320][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpectatorRelated/BirdWing" FILE="Z:/ISG_/ISG/Content/SpectatorRelated/BirdWing.uasset" SILENT=true
+[2020.06.25-12.54.12:336][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/BirdWing04D2B03C4ADE68226FFDF4AE1A639A7B.tmp' to 'Z:/ISG_/ISG/Content/SpectatorRelated/BirdWing.uasset'
+[2020.06.25-12.54.12:348][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpectatorRelated/palette" FILE="Z:/ISG_/ISG/Content/SpectatorRelated/palette.uasset" SILENT=true
+[2020.06.25-12.54.12:368][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/paletteB4C703DF42130BCA7CA2128FC2AB6F0B.tmp' to 'Z:/ISG_/ISG/Content/SpectatorRelated/palette.uasset'
+[2020.06.25-12.54.12:389][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Button/KickButton" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Button/KickButton.uasset" SILENT=true
+[2020.06.25-12.54.12:425][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/KickButtonC0D14D3E42E188A24C07B58F3C3516AA.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Button/KickButton.uasset'
+[2020.06.25-12.54.12:441][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpectatorRelated/PigeonSpec_PhysicsAsset" FILE="Z:/ISG_/ISG/Content/SpectatorRelated/PigeonSpec_PhysicsAsset.uasset" SILENT=true
+[2020.06.25-12.54.12:463][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PigeonSpec_PhysicsAssetBB401AB44E03B85031FAA48579F18906.tmp' to 'Z:/ISG_/ISG/Content/SpectatorRelated/PigeonSpec_PhysicsAsset.uasset'
+[2020.06.25-12.54.12:468][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpectatorRelated/PigeonSpec_Skeleton" FILE="Z:/ISG_/ISG/Content/SpectatorRelated/PigeonSpec_Skeleton.uasset" SILENT=true
+[2020.06.25-12.54.12:483][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PigeonSpec_Skeleton521F052F40BCAEC0C45982A91280D349.tmp' to 'Z:/ISG_/ISG/Content/SpectatorRelated/PigeonSpec_Skeleton.uasset'
+[2020.06.25-12.54.12:495][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpectatorRelated/PigeonSpec" FILE="Z:/ISG_/ISG/Content/SpectatorRelated/PigeonSpec.uasset" SILENT=true
+[2020.06.25-12.54.12:521][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PigeonSpecB12D381443BEDE4E41ACAA8602C8E19B.tmp' to 'Z:/ISG_/ISG/Content/SpectatorRelated/PigeonSpec.uasset'
+[2020.06.25-12.54.12:533][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActorRelated/ACTOR_PigeonDummy" FILE="Z:/ISG_/ISG/Content/ActorRelated/ACTOR_PigeonDummy.uasset" SILENT=true
+[2020.06.25-12.54.12:559][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/ACTOR_PigeonDummy6F3530224F4627AC4282DEB7F499A73C.tmp' to 'Z:/ISG_/ISG/Content/ActorRelated/ACTOR_PigeonDummy.uasset'
+[2020.06.25-12.54.12:564][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/PlayerModels/BunnyGuy/Bunny_Body" FILE="Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BunnyGuy/Bunny_Body.uasset" SILENT=true
+[2020.06.25-12.54.12:581][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bunny_Body47228F704D68A234329319ACE91901C5.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BunnyGuy/Bunny_Body.uasset'
+[2020.06.25-12.54.12:594][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/PlayerModels/BunnyGuy/palette" FILE="Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BunnyGuy/palette.uasset" SILENT=true
+[2020.06.25-12.54.12:612][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/paletteE74274384D8D7936F13955B879A97B16.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BunnyGuy/palette.uasset'
+[2020.06.25-12.54.12:650][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bomber_GuyDefaultRig_PhysicsAsse65F532EA4AD31923151EBF9AD4F2A9A1.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BomberGuy/Bomber_GuyDefaultRig_PhysicsAsset.uasset'
+[2020.06.25-12.54.12:653][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/PlayerModels/BunnyGuy/Bunny_GuyDefaultRig" FILE="Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BunnyGuy/Bunny_GuyDefaultRig.uasset" SILENT=true
+[2020.06.25-12.54.12:664][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bunny_GuyDefaultRig244C09BC43230A9E2BD50B8F113EFE8A.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BunnyGuy/Bunny_GuyDefaultRig.uasset'
+[2020.06.25-12.54.12:678][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActorRelated/ACTOR_PlayerDummy" FILE="Z:/ISG_/ISG/Content/ActorRelated/ACTOR_PlayerDummy.uasset" SILENT=true
+[2020.06.25-12.54.12:708][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/ACTOR_PlayerDummyE3408B04450EE1527A33A2BAADADE4BA.tmp' to 'Z:/ISG_/ISG/Content/ActorRelated/ACTOR_PlayerDummy.uasset'
+[2020.06.25-12.54.12:721][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpectatorRelated/PigeonSpec_Anim" FILE="Z:/ISG_/ISG/Content/SpectatorRelated/PigeonSpec_Anim.uasset" SILENT=true
+[2020.06.25-12.54.12:746][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PigeonSpec_Anim8C3B908D41A8A3C6E1213797F8A0A13D.tmp' to 'Z:/ISG_/ISG/Content/SpectatorRelated/PigeonSpec_Anim.uasset'
+[2020.06.25-12.54.12:749][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/MyPlayerState" FILE="Z:/ISG_/ISG/Content/PlayerRelated/MyPlayerState.uasset" SILENT=true
+[2020.06.25-12.54.12:788][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MyPlayerState7BDEB33E438CDA868E68D9A2919FE6E6.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/MyPlayerState.uasset'
+[2020.06.25-12.54.12:806][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SpectatorRelated/MySpectatorPawn" FILE="Z:/ISG_/ISG/Content/SpectatorRelated/MySpectatorPawn.uasset" SILENT=true
+[2020.06.25-12.54.12:865][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MySpectatorPawn071C55C945F15AFF959AADACE84D3B64.tmp' to 'Z:/ISG_/ISG/Content/SpectatorRelated/MySpectatorPawn.uasset'
+[2020.06.25-12.54.12:885][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Chair/BP_Chair" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Chair/BP_Chair.uasset" SILENT=true
+[2020.06.25-12.54.12:915][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/BP_ChairA5AF9A534413614AEDCA09AC1610F177.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Chair/BP_Chair.uasset'
+[2020.06.25-12.54.12:919][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Table/Table1" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Table/Table1.uasset" SILENT=true
+[2020.06.25-12.54.12:951][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Table196EF218741A22ADE230FAB993502BECD.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Table/Table1.uasset'
+[2020.06.25-12.54.12:963][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Table/table11" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Table/table11.uasset" SILENT=true
+[2020.06.25-12.54.12:989][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/table11DBEEEDE447D9044B766A23B2A9F3ADFC.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Table/table11.uasset'
+[2020.06.25-12.54.13:002][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Chair/Chair" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Chair/Chair.uasset" SILENT=true
+[2020.06.25-12.54.13:025][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Chair39ABA767422408D7C69B2B868AC3E623.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Chair/Chair.uasset'
+[2020.06.25-12.54.13:029][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Parkbench/Parkbench1" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Parkbench/Parkbench1.uasset" SILENT=true
+[2020.06.25-12.54.13:046][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Parkbench16DB02D29431F02C0691A578B225F86AA.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Parkbench/Parkbench1.uasset'
+[2020.06.25-12.54.13:059][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Parkbench/palette" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Parkbench/palette.uasset" SILENT=true
+[2020.06.25-12.54.13:078][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/paletteA9BE9A274D97F46B825BDFBDADEB5665.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Parkbench/palette.uasset'
+[2020.06.25-12.54.13:090][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Parkbench/Parkbench" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Parkbench/Parkbench.uasset" SILENT=true
+[2020.06.25-12.54.13:118][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Parkbench5E74A93544D72D60CFCE7EB3814BB31E.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Parkbench/Parkbench.uasset'
+[2020.06.25-12.54.13:136][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Parkbench/BP_ParkBench" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Parkbench/BP_ParkBench.uasset" SILENT=true
+[2020.06.25-12.54.13:160][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/BP_ParkBenchD6C3785B46E5E937A2553781935E195E.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Parkbench/BP_ParkBench.uasset'
+[2020.06.25-12.54.13:173][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Table/Table" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Table/Table.uasset" SILENT=true
+[2020.06.25-12.54.13:198][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/TableD0EF9F60404F567BC23588BAEA023BFE.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Table/Table.uasset'
+[2020.06.25-12.54.13:217][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Table/BP_Table" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Table/BP_Table.uasset" SILENT=true
+[2020.06.25-12.54.13:248][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/BP_TableCE9C16BD4A1002530DB280AEFAD7BF12.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Table/BP_Table.uasset'
+[2020.06.25-12.54.13:278][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PlayerGeneralWidget17DD8C46423C02045BD18396AE3510E0.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/Widgets/PlayerGeneralWidget/PlayerGeneralWidget.uasset'
+[2020.06.25-12.54.13:281][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/MyPlayerHUD" FILE="Z:/ISG_/ISG/Content/PlayerRelated/MyPlayerHUD.uasset" SILENT=true
+[2020.06.25-12.54.13:309][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MyPlayerHUD303636CA4DFC1F2CB9C1E9979821EEDD.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/MyPlayerHUD.uasset'
+[2020.06.25-12.54.13:313][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/Widgets/GlobalFadeWidget/GlobalFadeWidget" FILE="Z:/ISG_/ISG/Content/PlayerRelated/Widgets/GlobalFadeWidget/GlobalFadeWidget.uasset" SILENT=true
+[2020.06.25-12.54.13:337][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/GlobalFadeWidget7F974CDA46A7F9DE925C8FB4558D3015.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/Widgets/GlobalFadeWidget/GlobalFadeWidget.uasset'
+[2020.06.25-12.54.13:341][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/Widgets/BomberWidget/BomberWidget" FILE="Z:/ISG_/ISG/Content/PlayerRelated/Widgets/BomberWidget/BomberWidget.uasset" SILENT=true
+[2020.06.25-12.54.13:357][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/BomberWidget115245F24CFBF3167C52628707416986.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/Widgets/BomberWidget/BomberWidget.uasset'
+[2020.06.25-12.54.13:397][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/M_BubbleCell4A598947480CE06915952F8EFC32A44F.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/M_BubbleCell.uasset'
+[2020.06.25-12.54.13:435][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MI_BubbleCellParticleF0B22CD34A8A1039580A9F8DDAF47764.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/MI_BubbleCellParticle.uasset'
+[2020.06.25-12.54.13:510][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/SM_BubbleCC76D73E44ECB8B9AA8F6095A76A4555.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Geometry/SM_Bubble.uasset'
+[2020.06.25-12.54.13:518][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Particle/SwapParticle" FILE="Z:/ISG_/ISG/Content/MyAssets/Particle/SwapParticle.uasset" SILENT=true
+[2020.06.25-12.54.13:558][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/SwapParticle4C1C0F7A43AEB75062006F85ABDBF7ED.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Particle/SwapParticle.uasset'
+[2020.06.25-12.54.13:648][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/T_BlastFire0C1519A44EE3EB7FEB830FBA7BED8860.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Textures/T_BlastFire.uasset'
+[2020.06.25-12.54.13:677][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/T_FireGradient92584FA648F14D6CE9BB42957F26A66F.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Textures/T_FireGradient.uasset'
+[2020.06.25-12.54.13:717][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/M_Blast8174B0EE4AC1F8CB8F18F4AFF8734E0A.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/M_Blast.uasset'
+[2020.06.25-12.54.13:753][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/M_BlastSphere3D81AAF845E43CC4F56854AD00202746.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/M_BlastSphere.uasset'
+[2020.06.25-12.54.13:778][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/T_BlastWave8DF0E7A947765906448632B6A54B1895.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Textures/T_BlastWave.uasset'
+[2020.06.25-12.54.13:817][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/M_BlastWaveFF6440214DD33CE09F32D9BB0013EFDC.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/M_BlastWave.uasset'
+[2020.06.25-12.54.13:842][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/T_FireNugget583776F94E2A6C1448E64DBF2B7518AC.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Textures/T_FireNugget.uasset'
+[2020.06.25-12.54.13:879][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/M_FireNugget7C0E0CBE4EAFC73E195E1B849D07BEB7.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/M_FireNugget.uasset'
+[2020.06.25-12.54.13:913][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MI_BubbleCellParticle27823C30446E3FC4F79EE26858608A099.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/MI_BubbleCellParticle2.uasset'
+[2020.06.25-12.54.13:972][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/T_SplashA02F7DA2435C285AC5DC7681291607AE.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Textures/T_Splash.uasset'
+[2020.06.25-12.54.14:010][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/M_Splash3A0A49E54958EEF26FEA89B0F73652F8.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/M_Splash.uasset'
+[2020.06.25-12.54.14:043][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MI_Splash_Inst6CBC67154A5C02BE16AF078E2ACE180B.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/MI_Splash_Inst.uasset'
+[2020.06.25-12.54.14:087][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/SM_BlastFire37FB548C452A23653A1288BE708CE9B7.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Geometry/SM_BlastFire.uasset'
+[2020.06.25-12.54.14:143][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/SM_BlastSphere73BE9BE34EB45AD2994F5EBD2FF7CB90.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Geometry/SM_BlastSphere.uasset'
+[2020.06.25-12.54.14:150][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Particle/ExplodeParticle" FILE="Z:/ISG_/ISG/Content/MyAssets/Particle/ExplodeParticle.uasset" SILENT=true
+[2020.06.25-12.54.14:209][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/ExplodeParticle5F1132B247E9603D5AA0ABADDC93A96F.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Particle/ExplodeParticle.uasset'
+[2020.06.25-12.54.14:216][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Sound/Explosion02" FILE="Z:/ISG_/ISG/Content/MyAssets/Sound/Explosion02.uasset" SILENT=true
+[2020.06.25-12.54.14:236][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Explosion0265E1A43E452B158EB9F2FF854EEC7AC3.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Sound/Explosion02.uasset'
+[2020.06.25-12.54.14:240][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/PlayerModels/BomberGuy/Bomber" FILE="Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BomberGuy/Bomber.uasset" SILENT=true
+[2020.06.25-12.54.14:258][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bomber602FE1D94B06B5F604CADBA8F29BCFA7.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BomberGuy/Bomber.uasset'
+[2020.06.25-12.54.14:273][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/PlayerModels/BomberGuy/Bomber_Mat" FILE="Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BomberGuy/Bomber_Mat.uasset" SILENT=true
+[2020.06.25-12.54.14:317][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bomber_Mat4C182EC24D2B466C68D60BB25E48B4D5.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BomberGuy/Bomber_Mat.uasset'
+[2020.06.25-12.54.14:330][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/PlayerModels/BomberGuy/Bomber_GuyDefaultRig" FILE="Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BomberGuy/Bomber_GuyDefaultRig.uasset" SILENT=true
+[2020.06.25-12.54.14:352][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bomber_GuyDefaultRig04D91D114C6AAD6760ED3183D4B0CAA1.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BomberGuy/Bomber_GuyDefaultRig.uasset'
+[2020.06.25-12.54.14:371][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActorRelated/Consumables/Consumable_Adrineline" FILE="Z:/ISG_/ISG/Content/ActorRelated/Consumables/Consumable_Adrineline.uasset" SILENT=true
+[2020.06.25-12.54.14:412][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Consumable_Adrineline5A195817402C4BEED92B938B598F2B6F.tmp' to 'Z:/ISG_/ISG/Content/ActorRelated/Consumables/Consumable_Adrineline.uasset'
+[2020.06.25-12.54.14:423][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Adrenaline/Adrenaline" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Adrenaline/Adrenaline.uasset" SILENT=true
+[2020.06.25-12.54.14:453][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/AdrenalineC0217B984BCFD8273646D7880B402A9F.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Adrenaline/Adrenaline.uasset'
+[2020.06.25-12.54.14:467][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Adrenaline/palette" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Adrenaline/palette.uasset" SILENT=true
+[2020.06.25-12.54.14:485][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/palette20B633204E90F1001DC028B68031FF39.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Adrenaline/palette.uasset'
+[2020.06.25-12.54.14:489][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Adrenaline/Adrenaline1" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Adrenaline/Adrenaline1.uasset" SILENT=true
+[2020.06.25-12.54.14:507][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Adrenaline1558722824F8412DFCF002CBDCA79E348.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Adrenaline/Adrenaline1.uasset'
+[2020.06.25-12.54.14:519][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/PlantPot/PLANTPOT" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/PlantPot/PLANTPOT.uasset" SILENT=true
+[2020.06.25-12.54.14:544][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PLANTPOT825680FE42B759D7E35541A408B2A62D.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/PlantPot/PLANTPOT.uasset'
+[2020.06.25-12.54.14:557][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Fountain/Fountain" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Fountain/Fountain.uasset" SILENT=true
+[2020.06.25-12.54.14:593][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Fountain2F7297EC4A3FA2E56CF1718297F4A60A.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Fountain/Fountain.uasset'
+[2020.06.25-12.54.14:607][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Fountain/palette" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Fountain/palette.uasset" SILENT=true
+[2020.06.25-12.54.14:626][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/paletteEB839C0C48C17D4947E10BBC893F1908.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Fountain/palette.uasset'
+[2020.06.25-12.54.14:630][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Fountain/Fountain1" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Fountain/Fountain1.uasset" SILENT=true
+[2020.06.25-12.54.14:642][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Fountain1E39DAA4F4BCF87330102D8A4B41689C2.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Fountain/Fountain1.uasset'
+[2020.06.25-12.54.14:699][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PS_FireTrails49D066A364808EBD36462F79BA9E29095.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_FireTrails4.uasset'
+[2020.06.25-12.54.14:712][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Textures/FloorTile_Mat4" FILE="Z:/ISG_/ISG/Content/MyAssets/Textures/FloorTile_Mat4.uasset" SILENT=true
+[2020.06.25-12.54.14:748][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/FloorTile_Mat43B8857BE44E488365C3F09A33D216979.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Textures/FloorTile_Mat4.uasset'
+[2020.06.25-12.54.14:760][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Textures/FloorTile_Mat3" FILE="Z:/ISG_/ISG/Content/MyAssets/Textures/FloorTile_Mat3.uasset" SILENT=true
+[2020.06.25-12.54.14:784][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/FloorTile_Mat35EF9318C44FDCEA53509B0943E909FAE.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Textures/FloorTile_Mat3.uasset'
+[2020.06.25-12.54.14:798][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Textures/FloorTile_Mat2" FILE="Z:/ISG_/ISG/Content/MyAssets/Textures/FloorTile_Mat2.uasset" SILENT=true
+[2020.06.25-12.54.14:822][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/FloorTile_Mat206EFF90F41B5358617B2AE8441EB4FE7.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Textures/FloorTile_Mat2.uasset'
+[2020.06.25-12.54.14:834][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Textures/FloorTile_Mat1" FILE="Z:/ISG_/ISG/Content/MyAssets/Textures/FloorTile_Mat1.uasset" SILENT=true
+[2020.06.25-12.54.14:859][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/FloorTile_Mat18AB54C894DAAC09B2159EABA135A3952.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Textures/FloorTile_Mat1.uasset'
+[2020.06.25-12.54.14:875][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Fountain/Water" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Fountain/Water.uasset" SILENT=true
+[2020.06.25-12.54.14:903][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Water0446EC4F46D69F20C3E373A1AC281877.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Fountain/Water.uasset'
+[2020.06.25-12.54.14:907][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActorRelated/DeathBarrier" FILE="Z:/ISG_/ISG/Content/ActorRelated/DeathBarrier.uasset" SILENT=true
+[2020.06.25-12.54.14:936][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/DeathBarrier5CB6037746E7408F93F18790004C9407.tmp' to 'Z:/ISG_/ISG/Content/ActorRelated/DeathBarrier.uasset'
+[2020.06.25-12.54.14:948][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActorRelated/ACTOR_LaunchPad" FILE="Z:/ISG_/ISG/Content/ActorRelated/ACTOR_LaunchPad.uasset" SILENT=true
+[2020.06.25-12.54.14:991][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/ACTOR_LaunchPad65E3286C4F86C760A386C6BAAD043BDE.tmp' to 'Z:/ISG_/ISG/Content/ActorRelated/ACTOR_LaunchPad.uasset'
+[2020.06.25-12.54.15:027][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bunny_GuyDefaultRig_PhysicsAsset54BBBA2F48BB2ED7991A6190363C7C6D.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BunnyGuy/Bunny_GuyDefaultRig_PhysicsAsset.uasset'
+[2020.06.25-12.54.15:041][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/PlayerModels/BunnyGuy/Bunny_GuyDefaultRig_Anim" FILE="Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BunnyGuy/Bunny_GuyDefaultRig_Anim.uasset" SILENT=true
+[2020.06.25-12.54.15:063][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bunny_GuyDefaultRig_Anim1AAD699C458B4D5F4FA77DA16FA08592.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BunnyGuy/Bunny_GuyDefaultRig_Anim.uasset'
+[2020.06.25-12.54.15:066][866]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.15:076][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/PlayerModels/BunnyGuy/Bunny" FILE="Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BunnyGuy/Bunny.uasset" SILENT=true
+[2020.06.25-12.54.15:099][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/BunnyC97B6BDF4911FB0F4121F6809B261AA7.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BunnyGuy/Bunny.uasset'
+[2020.06.25-12.54.15:102][866]LogAnimation: Warning: SkeletalMesh Bunny has no skeleton. This needs to fixed before an animation can be set
+[2020.06.25-12.54.15:111][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/PlayerModels/BomberGuy/Bunny" FILE="Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BomberGuy/Bunny.uasset" SILENT=true
+[2020.06.25-12.54.15:129][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bunny8B83920746D981535F04D7BE066937C3.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BomberGuy/Bunny.uasset'
+[2020.06.25-12.54.15:163][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bomber_GuyDefaultRig_Skeleton_Bl15B30A084AD669A036DAE2AAA93BBFFF.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BomberGuy/Bomber_GuyDefaultRig_Skeleton_BlendSpace1D.uasset'
+[2020.06.25-12.54.15:217][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bomber_GuyDefaultRig_Skeleton_Bl4D26DAC44E0C3A5794EF2E81CCB953D4.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/PlayerModels/BomberGuy/Bomber_GuyDefaultRig_Skeleton_BlendSpace.uasset'
+[2020.06.25-12.54.15:223][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Textures/ExitGame" FILE="Z:/ISG_/ISG/Content/MyAssets/Textures/ExitGame.uasset" SILENT=true
+[2020.06.25-12.54.15:242][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/ExitGame8488513640879983F84312979C7FAEBE.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Textures/ExitGame.uasset'
+[2020.06.25-12.54.15:246][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Sound/Explosion_Cue" FILE="Z:/ISG_/ISG/Content/MyAssets/Sound/Explosion_Cue.uasset" SILENT=true
+[2020.06.25-12.54.15:259][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Explosion_CueF2AA03A440B65C48958A74B627CF8C90.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Sound/Explosion_Cue.uasset'
+[2020.06.25-12.54.15:273][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Pigeon/Pigeon" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Pigeon/Pigeon.uasset" SILENT=true
+[2020.06.25-12.54.15:300][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Pigeon8A104B3C413E86B6BF0C018D480D52BE.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Pigeon/Pigeon.uasset'
+[2020.06.25-12.54.15:313][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Pigeon/palette" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Pigeon/palette.uasset" SILENT=true
+[2020.06.25-12.54.15:333][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/palette8891DC604CAA62EF8368D4A22F23CF7A.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Pigeon/palette.uasset'
+[2020.06.25-12.54.15:337][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Pigeon/Pigeon1" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Pigeon/Pigeon1.uasset" SILENT=true
+[2020.06.25-12.54.15:350][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Pigeon1F43E14D34ED0F0E433E3D187F579BA63.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Pigeon/Pigeon1.uasset'
+[2020.06.25-12.54.15:362][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/FloorTiles/DEFAULTFLOORTILE" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/FloorTiles/DEFAULTFLOORTILE.uasset" SILENT=true
+[2020.06.25-12.54.15:385][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/DEFAULTFLOORTILEBF135BCD463FDE3F19385FB0741FE62F.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/FloorTiles/DEFAULTFLOORTILE.uasset'
+[2020.06.25-12.54.15:399][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/FloorTiles/palette" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/FloorTiles/palette.uasset" SILENT=true
+[2020.06.25-12.54.15:419][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/palette937C9F054E6ED8734FE470BE63AD5A01.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/FloorTiles/palette.uasset'
+[2020.06.25-12.54.15:423][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/FloorTiles/DEFAULTFLOORTILE1" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/FloorTiles/DEFAULTFLOORTILE1.uasset" SILENT=true
+[2020.06.25-12.54.15:436][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/DEFAULTFLOORTILE18A470E664B8CAE662639C9A84692887F.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/FloorTiles/DEFAULTFLOORTILE1.uasset'
+[2020.06.25-12.54.15:448][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Floor/Floor" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Floor/Floor.uasset" SILENT=true
+[2020.06.25-12.54.15:474][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Floor60F5A61F4618580BF1F3E0ABC43E5EAC.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Floor/Floor.uasset'
+[2020.06.25-12.54.15:486][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Floor/palette" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Floor/palette.uasset" SILENT=true
+[2020.06.25-12.54.15:505][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/paletteEBA494FE4D1532BC7217A69DB0659D61.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Floor/palette.uasset'
+[2020.06.25-12.54.15:509][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Mushrooms/BoomShroom1" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Mushrooms/BoomShroom1.uasset" SILENT=true
+[2020.06.25-12.54.15:525][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/BoomShroom1F91332F143357A6107ACD098F51EAA2F.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Mushrooms/BoomShroom1.uasset'
+[2020.06.25-12.54.15:543][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Mushrooms/palette" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Mushrooms/palette.uasset" SILENT=true
+[2020.06.25-12.54.15:563][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/paletteB55F2A6B42C46F58CD1C5A8113A142F8.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Mushrooms/palette.uasset'
+[2020.06.25-12.54.15:575][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Mushrooms/BoomShroom" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Mushrooms/BoomShroom.uasset" SILENT=true
+[2020.06.25-12.54.15:602][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/BoomShroom09BEB8754497E3273CBB5D9C8F40F40B.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Mushrooms/BoomShroom.uasset'
+[2020.06.25-12.54.15:609][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Sound/Explosion01" FILE="Z:/ISG_/ISG/Content/MyAssets/Sound/Explosion01.uasset" SILENT=true
+[2020.06.25-12.54.15:629][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Explosion0144CEFA68411DE2BC95BAC985C4D4329B.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Sound/Explosion01.uasset'
+[2020.06.25-12.54.15:633][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Floor/Floor1" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Floor/Floor1.uasset" SILENT=true
+[2020.06.25-12.54.15:649][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Floor11F723E874C9A538783091D9C1FD5AE91.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Floor/Floor1.uasset'
+[2020.06.25-12.54.15:661][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Door/Door" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Door/Door.uasset" SILENT=true
+[2020.06.25-12.54.15:688][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/DoorEA5E7AAC4A7490B0A9CE68ABA4F12E48.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Door/Door.uasset'
+[2020.06.25-12.54.15:700][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActorRelated/BoomShroom" FILE="Z:/ISG_/ISG/Content/ActorRelated/BoomShroom.uasset" SILENT=true
+[2020.06.25-12.54.15:734][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/BoomShroom0C9323F7415D6F9171E83680DFAEBFF9.tmp' to 'Z:/ISG_/ISG/Content/ActorRelated/BoomShroom.uasset'
+[2020.06.25-12.54.15:749][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Door/palette" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Door/palette.uasset" SILENT=true
+[2020.06.25-12.54.15:768][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/palette8B6CBE134454205ED8DFD7A75D44D180.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Door/palette.uasset'
+[2020.06.25-12.54.15:772][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Door/Door1" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Door/Door1.uasset" SILENT=true
+[2020.06.25-12.54.15:785][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Door1AE12B6BC412FBBD938FAD39160E638B8.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Door/Door1.uasset'
+[2020.06.25-12.54.15:798][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Chair/palette" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Chair/palette.uasset" SILENT=true
+[2020.06.25-12.54.15:819][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/paletteC35EBEEB44E412012EE109B70A373655.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Chair/palette.uasset'
+[2020.06.25-12.54.15:822][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Chair/Chair1" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Chair/Chair1.uasset" SILENT=true
+[2020.06.25-12.54.15:836][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Chair187566F0241027476FEE0FEA113135BB0.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Chair/Chair1.uasset'
+[2020.06.25-12.54.15:843][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Fonts/Oxanium-SemiBold_Font" FILE="Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-SemiBold_Font.uasset" SILENT=true
+[2020.06.25-12.54.15:860][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Oxanium-SemiBold_Font44708983420A430F9D3CF89F144C8669.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-SemiBold_Font.uasset'
+[2020.06.25-12.54.15:864][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Fonts/Oxanium-SemiBold" FILE="Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-SemiBold.uasset" SILENT=true
+[2020.06.25-12.54.15:882][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Oxanium-SemiBoldA4C2A9E4476A8140D66FA29B1D0CD443.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-SemiBold.uasset'
+[2020.06.25-12.54.15:889][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Fonts/Oxanium-Light_Font" FILE="Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-Light_Font.uasset" SILENT=true
+[2020.06.25-12.54.15:904][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Oxanium-Light_Font2D4F9D424D30FE1ED7B9F3A102406FBA.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-Light_Font.uasset'
+[2020.06.25-12.54.15:923][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActorRelated/ForkLift" FILE="Z:/ISG_/ISG/Content/ActorRelated/ForkLift.uasset" SILENT=true
+[2020.06.25-12.54.15:949][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/ForkLift1466BCE3459BFC9CDDF63386A797E455.tmp' to 'Z:/ISG_/ISG/Content/ActorRelated/ForkLift.uasset'
+[2020.06.25-12.54.15:953][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Fonts/Oxanium-Light" FILE="Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-Light.uasset" SILENT=true
+[2020.06.25-12.54.15:969][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Oxanium-Light3383BF5E46B41792B08576BD8D3FEC9B.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-Light.uasset'
+[2020.06.25-12.54.15:977][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Fonts/Oxanium-ExtraLight_Font" FILE="Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-ExtraLight_Font.uasset" SILENT=true
+[2020.06.25-12.54.15:993][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Oxanium-ExtraLight_Font426F3DAB4BC2BA8B395753BBA8A50C31.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-ExtraLight_Font.uasset'
+[2020.06.25-12.54.15:996][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Fonts/Oxanium-ExtraLight" FILE="Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-ExtraLight.uasset" SILENT=true
+[2020.06.25-12.54.16:015][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Oxanium-ExtraLight41F385C142669DE67127B6A9807137B7.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-ExtraLight.uasset'
+[2020.06.25-12.54.16:018][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuRelated/Widgets/MM_PatchNotes" FILE="Z:/ISG_/ISG/Content/MainMenuRelated/Widgets/MM_PatchNotes.uasset" SILENT=true
+[2020.06.25-12.54.16:040][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MM_PatchNotesF4C461804DEE1E7D66406E92B723681F.tmp' to 'Z:/ISG_/ISG/Content/MainMenuRelated/Widgets/MM_PatchNotes.uasset'
+[2020.06.25-12.54.16:048][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Fonts/Oxanium-ExtraBold_Font" FILE="Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-ExtraBold_Font.uasset" SILENT=true
+[2020.06.25-12.54.16:062][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Oxanium-ExtraBold_Font316E5D854155F9FB1BDA7EBCD8CF1913.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-ExtraBold_Font.uasset'
+[2020.06.25-12.54.16:065][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Fonts/Oxanium-ExtraBold" FILE="Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-ExtraBold.uasset" SILENT=true
+[2020.06.25-12.54.16:083][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Oxanium-ExtraBold284102944842E6D8A225CA915A2C2703.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-ExtraBold.uasset'
+[2020.06.25-12.54.16:086][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/GameInstance/ISGGameInstance" FILE="Z:/ISG_/ISG/Content/GameRelated/GameInstance/ISGGameInstance.uasset" SILENT=true
+[2020.06.25-12.54.16:105][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/ISGGameInstance6D47AA3D4790AC47A91334B151029BB3.tmp' to 'Z:/ISG_/ISG/Content/GameRelated/GameInstance/ISGGameInstance.uasset'
+[2020.06.25-12.54.16:111][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Fonts/Oxanium-Bold_Font" FILE="Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-Bold_Font.uasset" SILENT=true
+[2020.06.25-12.54.16:126][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Oxanium-Bold_Font22DC61AF409462E17D034DBF34003577.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-Bold_Font.uasset'
+[2020.06.25-12.54.16:138][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActorRelated/AppleTree" FILE="Z:/ISG_/ISG/Content/ActorRelated/AppleTree.uasset" SILENT=true
+[2020.06.25-12.54.16:208][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/AppleTree35441A5942A29514685DBEAC2DCFD55D.tmp' to 'Z:/ISG_/ISG/Content/ActorRelated/AppleTree.uasset'
+[2020.06.25-12.54.16:221][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/PlantPot/POTTREE" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/PlantPot/POTTREE.uasset" SILENT=true
+[2020.06.25-12.54.16:312][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/POTTREEEBC0221C496C0572C4F8CE94A6CAAAC1.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/PlantPot/POTTREE.uasset'
+[2020.06.25-12.54.16:316][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuRelated/MM_Player" FILE="Z:/ISG_/ISG/Content/MainMenuRelated/MM_Player.uasset" SILENT=true
+[2020.06.25-12.54.16:352][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MM_Player007BDF984876494B4F9AC1931B9EA212.tmp' to 'Z:/ISG_/ISG/Content/MainMenuRelated/MM_Player.uasset'
+[2020.06.25-12.54.16:364][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/PlantPot/palette" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/PlantPot/palette.uasset" SILENT=true
+[2020.06.25-12.54.16:385][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/palette81D89F0645C31677B468E989F12C7370.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/PlantPot/palette.uasset'
+[2020.06.25-12.54.16:388][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/PlantPot/PLANTPOT1" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/PlantPot/PLANTPOT1.uasset" SILENT=true
+[2020.06.25-12.54.16:407][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PLANTPOT17EDA4C304D5A7D9C5CC51EB90A920AAD.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/PlantPot/PLANTPOT1.uasset'
+[2020.06.25-12.54.16:411][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Fonts/Oxanium-Bold" FILE="Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-Bold.uasset" SILENT=true
+[2020.06.25-12.54.16:428][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Oxanium-Bold8149BFDE438099A82CADEF888B89DA86.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-Bold.uasset'
+[2020.06.25-12.54.16:431][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuRelated/Widgets/MM_MainWidget" FILE="Z:/ISG_/ISG/Content/MainMenuRelated/Widgets/MM_MainWidget.uasset" SILENT=true
+[2020.06.25-12.54.16:494][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MM_MainWidget89AE09C4483C59DFB5B90F9AF5377267.tmp' to 'Z:/ISG_/ISG/Content/MainMenuRelated/Widgets/MM_MainWidget.uasset'
+[2020.06.25-12.54.16:513][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActorRelated/Consumables/Consume_Actor/Consumable_Apple" FILE="Z:/ISG_/ISG/Content/ActorRelated/Consumables/Consume_Actor/Consumable_Apple.uasset" SILENT=true
+[2020.06.25-12.54.16:542][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Consumable_Apple8B91EC18464A21CBA2831CB97413FC8D.tmp' to 'Z:/ISG_/ISG/Content/ActorRelated/Consumables/Consume_Actor/Consumable_Apple.uasset'
+[2020.06.25-12.54.16:561][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuRelated/Widgets/MainMenuButtonType" FILE="Z:/ISG_/ISG/Content/MainMenuRelated/Widgets/MainMenuButtonType.uasset" SILENT=true
+[2020.06.25-12.54.16:578][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MainMenuButtonTypeA751700744A584A51CF3349EFC5E3342.tmp' to 'Z:/ISG_/ISG/Content/MainMenuRelated/Widgets/MainMenuButtonType.uasset'
+[2020.06.25-12.54.16:584][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Textures/Multiplayer" FILE="Z:/ISG_/ISG/Content/MyAssets/Textures/Multiplayer.uasset" SILENT=true
+[2020.06.25-12.54.16:602][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Multiplayer04ED431948B3392D006A04A1A2B774EA.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Textures/Multiplayer.uasset'
+[2020.06.25-12.54.16:611][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Textures/QuitGame" FILE="Z:/ISG_/ISG/Content/MyAssets/Textures/QuitGame.uasset" SILENT=true
+[2020.06.25-12.54.16:632][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/QuitGameB562764B4BE3BF6D29C0D1BBB07586D0.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Textures/QuitGame.uasset'
+[2020.06.25-12.54.16:645][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Food/Apple/APPLE" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Food/Apple/APPLE.uasset" SILENT=true
+[2020.06.25-12.54.16:669][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/APPLE58124124432D0C7CE0FE2893B03ADE53.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Food/Apple/APPLE.uasset'
+[2020.06.25-12.54.16:682][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Food/Apple/palette" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Food/Apple/palette.uasset" SILENT=true
+[2020.06.25-12.54.16:704][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/palette16554EC2465EE2DDDABADB880EAAF5ED.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Food/Apple/palette.uasset'
+[2020.06.25-12.54.16:708][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Food/Apple/APPLE1" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Food/Apple/APPLE1.uasset" SILENT=true
+[2020.06.25-12.54.16:724][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/APPLE16857E8FE4A694F149C657FB119196804.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Food/Apple/APPLE1.uasset'
+[2020.06.25-12.54.16:728][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuRelated/Widgets/MM_MainMenuButton" FILE="Z:/ISG_/ISG/Content/MainMenuRelated/Widgets/MM_MainMenuButton.uasset" SILENT=true
+[2020.06.25-12.54.16:772][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MM_MainMenuButton87EA21D544166033354D2FA2571FB3DA.tmp' to 'Z:/ISG_/ISG/Content/MainMenuRelated/Widgets/MM_MainMenuButton.uasset'
+[2020.06.25-12.54.16:775][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuRelated/Widgets/SettingsButtonType" FILE="Z:/ISG_/ISG/Content/MainMenuRelated/Widgets/SettingsButtonType.uasset" SILENT=true
+[2020.06.25-12.54.16:792][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/SettingsButtonTypeCE8910354A73FD6F30DF11B6D34FAD71.tmp' to 'Z:/ISG_/ISG/Content/MainMenuRelated/Widgets/SettingsButtonType.uasset'
+[2020.06.25-12.54.16:795][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuRelated/Widgets/SettingsButton" FILE="Z:/ISG_/ISG/Content/MainMenuRelated/Widgets/SettingsButton.uasset" SILENT=true
+[2020.06.25-12.54.16:870][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/SettingsButton906E60064D6491BB28BA8582D2F1027F.tmp' to 'Z:/ISG_/ISG/Content/MainMenuRelated/Widgets/SettingsButton.uasset'
+[2020.06.25-12.54.16:874][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuRelated/Widgets/MM_Settings" FILE="Z:/ISG_/ISG/Content/MainMenuRelated/Widgets/MM_Settings.uasset" SILENT=true
+[2020.06.25-12.54.16:920][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MM_SettingsC06C6A4B48916EC5B32A9F81CB486CD8.tmp' to 'Z:/ISG_/ISG/Content/MainMenuRelated/Widgets/MM_Settings.uasset'
+[2020.06.25-12.54.16:924][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuRelated/Widgets/LoadingIcon" FILE="Z:/ISG_/ISG/Content/MainMenuRelated/Widgets/LoadingIcon.uasset" SILENT=true
+[2020.06.25-12.54.16:946][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/LoadingIcon826B750345785D1D35D0CBB468C1AF9F.tmp' to 'Z:/ISG_/ISG/Content/MainMenuRelated/Widgets/LoadingIcon.uasset'
+[2020.06.25-12.54.16:953][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Textures/Bomb" FILE="Z:/ISG_/ISG/Content/MyAssets/Textures/Bomb.uasset" SILENT=true
+[2020.06.25-12.54.16:974][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Bomb97CFA2D7410E768285B84B90A92BA69B.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Textures/Bomb.uasset'
+[2020.06.25-12.54.16:982][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Fonts/Oxanium-Regular_Font" FILE="Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-Regular_Font.uasset" SILENT=true
+[2020.06.25-12.54.17:002][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Oxanium-Regular_Font3007C2884FAF68F31B1BFAAD9BAE577A.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-Regular_Font.uasset'
+[2020.06.25-12.54.17:005][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Fonts/Oxanium-Regular" FILE="Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-Regular.uasset" SILENT=true
+[2020.06.25-12.54.17:024][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Oxanium-Regular865CBA404C483BDAEF6D4FB577441FE1.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Fonts/Oxanium-Regular.uasset'
+[2020.06.25-12.54.17:027][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActorRelated/Consumables/InteractionWidget" FILE="Z:/ISG_/ISG/Content/ActorRelated/Consumables/InteractionWidget.uasset" SILENT=true
+[2020.06.25-12.54.17:078][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/InteractionWidget9574BEF94E6F8E1DC1AD8F80FC076215.tmp' to 'Z:/ISG_/ISG/Content/ActorRelated/Consumables/InteractionWidget.uasset'
+[2020.06.25-12.54.17:082][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActorRelated/Consumables/MASTER_Consumable" FILE="Z:/ISG_/ISG/Content/ActorRelated/Consumables/MASTER_Consumable.uasset" SILENT=true
+[2020.06.25-12.54.17:121][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MASTER_ConsumableD341DC964EA3BE781EEBE69F7204029C.tmp' to 'Z:/ISG_/ISG/Content/ActorRelated/Consumables/MASTER_Consumable.uasset'
+[2020.06.25-12.54.17:124][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuRelated/MM_Gamemode" FILE="Z:/ISG_/ISG/Content/MainMenuRelated/MM_Gamemode.uasset" SILENT=true
+[2020.06.25-12.54.17:143][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MM_Gamemode17A9A3BB42C2423BB92EB98A14F7FDE6.tmp' to 'Z:/ISG_/ISG/Content/MainMenuRelated/MM_Gamemode.uasset'
+[2020.06.25-12.54.17:158][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Materials/Basic_Grey" FILE="Z:/ISG_/ISG/Content/MyAssets/Materials/Basic_Grey.uasset" SILENT=true
+[2020.06.25-12.54.17:182][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Basic_Grey130075FB443F36573DA20FBBF500ED9E.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Materials/Basic_Grey.uasset'
+[2020.06.25-12.54.17:185][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Textures/FloorTile" FILE="Z:/ISG_/ISG/Content/MyAssets/Textures/FloorTile.uasset" SILENT=true
+[2020.06.25-12.54.17:199][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/FloorTileA1174AE348F6204D5A943094FC10C905.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Textures/FloorTile.uasset'
+[2020.06.25-12.54.17:212][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Textures/FloorTile_Mat" FILE="Z:/ISG_/ISG/Content/MyAssets/Textures/FloorTile_Mat.uasset" SILENT=true
+[2020.06.25-12.54.17:239][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/FloorTile_Mat2347A3E5416CA13F40AA69BFB36AD608.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Textures/FloorTile_Mat.uasset'
+[2020.06.25-12.54.17:244][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Containers/Container1" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Containers/Container1.uasset" SILENT=true
+[2020.06.25-12.54.17:260][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Container1422013804E02B0C21C4BB0B13CB9509B.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Containers/Container1.uasset'
+[2020.06.25-12.54.17:274][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Containers/palette" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Containers/palette.uasset" SILENT=true
+[2020.06.25-12.54.17:294][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/paletteA24BE65246A99FB7C282E3A9B0AD3439.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Containers/palette.uasset'
+[2020.06.25-12.54.17:306][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Containers/Container" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Containers/Container.uasset" SILENT=true
+[2020.06.25-12.54.17:332][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Container826999E54A00F170E7261AA6DE57B93C.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Containers/Container.uasset'
+[2020.06.25-12.54.17:336][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Forklift/Forklift1" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Forklift/Forklift1.uasset" SILENT=true
+[2020.06.25-12.54.17:353][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Forklift151CF07FA47E858924A9DAB8921052B7A.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Forklift/Forklift1.uasset'
+[2020.06.25-12.54.17:368][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Forklift/palette" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Forklift/palette.uasset" SILENT=true
+[2020.06.25-12.54.17:387][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/palette12413FEB49EE74A491FD68A5918989E0.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Forklift/palette.uasset'
+[2020.06.25-12.54.17:398][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Forklift/Forklift" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Forklift/Forklift.uasset" SILENT=true
+[2020.06.25-12.54.17:444][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/ForkliftD2C2D39546F186B354EC27BE9E67B055.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Forklift/Forklift.uasset'
+[2020.06.25-12.54.17:449][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/LaunchPad/JumpPad1" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/LaunchPad/JumpPad1.uasset" SILENT=true
+[2020.06.25-12.54.17:466][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/JumpPad177220F8F4BF0F7B55A7BEABF4E437A31.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/LaunchPad/JumpPad1.uasset'
+[2020.06.25-12.54.17:480][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/LaunchPad/palette" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/LaunchPad/palette.uasset" SILENT=true
+[2020.06.25-12.54.17:500][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/paletteF055F8C5416DC0A1BC78A39F9AF3631C.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/LaunchPad/palette.uasset'
+[2020.06.25-12.54.17:512][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/LaunchPad/LaunchTest2" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/LaunchPad/LaunchTest2.uasset" SILENT=true
+[2020.06.25-12.54.17:543][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/LaunchTest26F89748F40AD789622D8BCA5306BBEEA.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/LaunchPad/LaunchTest2.uasset'
+[2020.06.25-12.54.17:547][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuRelated/MM_Level" FILE="Z:/ISG_/ISG/Content/MainMenuRelated/MM_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.25-12.54.17:590][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.06.25-12.54.17:828][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MM_LevelDAECE18349FEA7E7447905B641F21AE8.tmp' to 'Z:/ISG_/ISG/Content/MainMenuRelated/MM_Level.umap'
+[2020.06.25-12.54.17:836][866]LogFileHelpers: Saving map 'MM_Level' took 0.290
+[2020.06.25-12.54.17:838][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenuRelated/MM_Level_BuiltData" FILE="Z:/ISG_/ISG/Content/MainMenuRelated/MM_Level_BuiltData.uasset" SILENT=true
+[2020.06.25-12.54.18:014][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MM_Level_BuiltData614AD31444535DEC3108B3B64C281BC9.tmp' to 'Z:/ISG_/ISG/Content/MainMenuRelated/MM_Level_BuiltData.uasset'
+[2020.06.25-12.54.18:018][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/Levels/MAP_Lobby" FILE="Z:/ISG_/ISG/Content/GameRelated/Levels/MAP_Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.25-12.54.18:048][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.06.25-12.54.18:196][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MAP_LobbyC3A1858D46D8B3CAA59720864F92607C.tmp' to 'Z:/ISG_/ISG/Content/GameRelated/Levels/MAP_Lobby.umap'
+[2020.06.25-12.54.18:201][866]LogFileHelpers: Saving map 'MAP_Lobby' took 0.182
+[2020.06.25-12.54.18:236][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Materials/Basic_White" FILE="Z:/ISG_/ISG/Content/MyAssets/Materials/Basic_White.uasset" SILENT=true
+[2020.06.25-12.54.18:258][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Basic_White0894C71E4F5E92FDDCB3FDBEC86CCA24.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Materials/Basic_White.uasset'
+[2020.06.25-12.54.18:262][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/Levels/MAP_Lobby_BuiltData" FILE="Z:/ISG_/ISG/Content/GameRelated/Levels/MAP_Lobby_BuiltData.uasset" SILENT=true
+[2020.06.25-12.54.18:285][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MAP_Lobby_BuiltData4047C8E54CAF0A0101F7D193F957B9DF.tmp' to 'Z:/ISG_/ISG/Content/GameRelated/Levels/MAP_Lobby_BuiltData.uasset'
+[2020.06.25-12.54.18:307][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActorRelated/Apple" FILE="Z:/ISG_/ISG/Content/ActorRelated/Apple.uasset" SILENT=true
+[2020.06.25-12.54.18:329][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Apple137B71DE4BE52B3ABD07859BC045BA7B.tmp' to 'Z:/ISG_/ISG/Content/ActorRelated/Apple.uasset'
+[2020.06.25-12.54.18:366][866]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.06.25-12.54.18:503][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Overview_Cartoony_Impact_-_Styli4BB3660340E9ABC65F493BB202C50FAB.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Maps/Overview_Cartoony_Impact_-_Stylized_Particle_Simulation_1.umap'
+[2020.06.25-12.54.18:510][866]LogFileHelpers: Saving map 'Overview_Cartoony_Impact_-_Stylized_Particle_Simulation_1' took 0.176
+[2020.06.25-12.54.18:527][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActorRelated/ACTOR_LandMine" FILE="Z:/ISG_/ISG/Content/ActorRelated/ACTOR_LandMine.uasset" SILENT=true
+[2020.06.25-12.54.18:589][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/ACTOR_LandMineB84A24C94FC1D942728ED8B322227C32.tmp' to 'Z:/ISG_/ISG/Content/ActorRelated/ACTOR_LandMine.uasset'
+[2020.06.25-12.54.18:601][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/LandMine/LandMine" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/LandMine/LandMine.uasset" SILENT=true
+[2020.06.25-12.54.18:627][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/LandMineE85DEC1245F6235BEA0F069C37E00E34.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/LandMine/LandMine.uasset'
+[2020.06.25-12.54.18:642][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/LandMine/palette" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/LandMine/palette.uasset" SILENT=true
+[2020.06.25-12.54.18:661][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/palette09B108FC497C4C1AF6A6CBB81F0C9B2E.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/LandMine/palette.uasset'
+[2020.06.25-12.54.18:664][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/LandMine/LandMine1" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/LandMine/LandMine1.uasset" SILENT=true
+[2020.06.25-12.54.18:678][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/LandMine11C057FA148898A732174F9A8AA3FC2CA.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/LandMine/LandMine1.uasset'
+[2020.06.25-12.54.18:718][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.06.25-12.54.18:793][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Demo_Cartoony_Impact_-_Stylized_FA015FAE4E4BC4B44A01A0ACC68868EA.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Maps/Demo_Cartoony_Impact_-_Stylized_Particle_Simulation_1.umap'
+[2020.06.25-12.54.18:799][866]LogFileHelpers: Saving map 'Demo_Cartoony_Impact_-_Stylized_Particle_Simulation_1' took 0.118
+[2020.06.25-12.54.18:855][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PS_Splash3D39EF214148F9ADB9E5AAACD8288E31.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_Splash.uasset'
+[2020.06.25-12.54.18:905][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PS_Smoke21256381942AC5F84B5F1EDAB934DCB6B.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_Smoke2.uasset'
+[2020.06.25-12.54.19:095][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PS_Smoke93A12F8F45E090DAE996C2B25B7A8092.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_Smoke.uasset'
+[2020.06.25-12.54.19:142][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PS_Lightning260BF3D574097EDED59DF7480F3EE081B.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_Lightning2.uasset'
+[2020.06.25-12.54.19:145][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/Levels/o" FILE="Z:/ISG_/ISG/Content/GameRelated/Levels/o.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.25-12.54.19:193][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.06.25-12.54.19:419][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/oBA2E39C14813E45A452C77A938B35CD0.tmp' to 'Z:/ISG_/ISG/Content/GameRelated/Levels/o.umap'
+[2020.06.25-12.54.19:435][866]LogFileHelpers: Saving map 'o' took 0.291
+[2020.06.25-12.54.19:440][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/Levels/o_BuiltData" FILE="Z:/ISG_/ISG/Content/GameRelated/Levels/o_BuiltData.uasset" SILENT=true
+[2020.06.25-12.54.19:464][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/o_BuiltDataBA827A4E4A8EF60AB5A196A8193D8295.tmp' to 'Z:/ISG_/ISG/Content/GameRelated/Levels/o_BuiltData.uasset'
+[2020.06.25-12.54.19:469][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/Gamemodes/GM_LobbyGamemode" FILE="Z:/ISG_/ISG/Content/GameRelated/Gamemodes/GM_LobbyGamemode.uasset" SILENT=true
+[2020.06.25-12.54.19:488][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/GM_LobbyGamemode96FE50074676DA3B6B82939AB7701530.tmp' to 'Z:/ISG_/ISG/Content/GameRelated/Gamemodes/GM_LobbyGamemode.uasset'
+[2020.06.25-12.54.19:507][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActorRelated/ACTOR_StartButton" FILE="Z:/ISG_/ISG/Content/ActorRelated/ACTOR_StartButton.uasset" SILENT=true
+[2020.06.25-12.54.19:570][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/ACTOR_StartButton941D40134A653BB2A3B85989877253EC.tmp' to 'Z:/ISG_/ISG/Content/ActorRelated/ACTOR_StartButton.uasset'
+[2020.06.25-12.54.19:574][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExampleBlueprints/ExampleAdvancedSessionsFunctionsChar" FILE="Z:/ISG_/ISG/Content/ExampleBlueprints/ExampleAdvancedSessionsFunctionsChar.uasset" SILENT=true
+[2020.06.25-12.54.19:651][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/ExampleAdvancedSessionsFunctions8EA733704A52B75DB3DB39BBB4DB4ACE.tmp' to 'Z:/ISG_/ISG/Content/ExampleBlueprints/ExampleAdvancedSessionsFunctionsChar.uasset'
+[2020.06.25-12.54.19:697][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PS_FireTrails30C00126241CEEC0C8FFADFB844E085CF.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_FireTrails3.uasset'
+[2020.06.25-12.54.19:742][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PS_FireTrails21E7E2CEE41A46A51D5325CAEE4B1F3FF.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_FireTrails2.uasset'
+[2020.06.25-12.54.19:803][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PS_FireTrails763CD5C94936BE084F09C59820AA8EE4.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_FireTrails.uasset'
+[2020.06.25-12.54.19:838][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PS_FireSparks3BB4E28D41FD32170303EC9B77E0F766.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_FireSparks.uasset'
+[2020.06.25-12.54.19:904][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PS_Boom26AF088AE485D261A1ADCE3A04A1FAB4E.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_Boom2.uasset'
+[2020.06.25-12.54.19:952][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PS_BoomB6A332B8439941C3F995B887EF8F91FC.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_Boom.uasset'
+[2020.06.25-12.54.19:987][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PS_BlastWaveCCCFA5954E21FF14C1B3868286CC2F75.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_BlastWave.uasset'
+[2020.06.25-12.54.20:040][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PS_BlastSphere68F0C5EB454F40B689A7FD9B655D7331.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_BlastSphere.uasset'
+[2020.06.25-12.54.20:086][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PS_BlastFire2D74127F14630A8A5647AAC82EEB9E99B.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_BlastFire2.uasset'
+[2020.06.25-12.54.20:121][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PS_BlastFire8EB4C9CB4515A181C0EB45BBEE9DAB9C.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_BlastFire.uasset'
+[2020.06.25-12.54.20:167][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PS_AirBoom45E7959E4EFE46E7A8095C82CC992E5B.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_AirBoom.uasset'
+[2020.06.25-12.54.20:251][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/BP_Storm82B6AC76443CE114027B919B92D3C5A3.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Blueprints/BP_Storm.uasset'
+[2020.06.25-12.54.20:285][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PS_RainCDB8DC284FCFEC13477AD79701F8DBAE.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_Rain.uasset'
+[2020.06.25-12.54.20:323][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/M_Rain8785294C4C30A1BCEE436D9ED8BEE96F.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/M_Rain.uasset'
+[2020.06.25-12.54.20:456][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/PS_Lighting2B541D44410AF88249B1298A19CC17EE.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Particles/PS_Lighting.uasset'
+[2020.06.25-12.54.20:495][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MI_BubbleCell747A2D3E4B762F88CAF97C99C271196D.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/MI_BubbleCell.uasset'
+[2020.06.25-12.54.20:553][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/M_RainFlash599A01884C2AEFE23E6A869A6209897B.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/M_RainFlash.uasset'
+[2020.06.25-12.54.20:613][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/M_LightningFBC2F19C468BD37CA7B9319234F9F27E.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Materials/M_Lightning.uasset'
+[2020.06.25-12.54.20:651][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/T_LightningFBF4344545040D840240ED898F9883AF.tmp' to 'Z:/ISG_/ISG/Content/Cartoony_Impact_-_Stylized_Particle_Simulation_1/Textures/T_Lightning.uasset'
+[2020.06.25-12.54.20:656][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActorRelated/Consumables/MASTER_Consumable_Child" FILE="Z:/ISG_/ISG/Content/ActorRelated/Consumables/MASTER_Consumable_Child.uasset" SILENT=true
+[2020.06.25-12.54.20:680][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MASTER_Consumable_Child589541354C1E6D222A10709E73DD8567.tmp' to 'Z:/ISG_/ISG/Content/ActorRelated/Consumables/MASTER_Consumable_Child.uasset'
+[2020.06.25-12.54.20:683][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/MAP_Garden" FILE="Z:/ISG_/ISG/Content/maps/MAP_Garden.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.25-12.54.20:708][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.06.25-12.54.20:939][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MAP_GardenD17AC52C44BC517AF1AD5CBC23458375.tmp' to 'Z:/ISG_/ISG/Content/maps/MAP_Garden.umap'
+[2020.06.25-12.54.20:968][866]LogFileHelpers: Saving map 'MAP_Garden' took 0.284
+[2020.06.25-12.54.20:970][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/MAP_Garden_BuiltData" FILE="Z:/ISG_/ISG/Content/maps/MAP_Garden_BuiltData.uasset" SILENT=true
+[2020.06.25-12.54.20:991][866]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MAP_Garden_BuiltData8D9903FF49075E3A2159229A9B5369B7.tmp' to 'Z:/ISG_/ISG/Content/maps/MAP_Garden_BuiltData.uasset'
+[2020.06.25-12.54.29:421][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.25-12.54.29:543][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.06.25-12.54.29:616][617]LogSlate: Window 'ISG - Unreal Editor' being destroyed
+[2020.06.25-12.54.29:616][617]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.06.25-12.54.29:781][618]Cmd: QUIT_EDITOR
+[2020.06.25-12.54.30:811][618]LogExit: Preparing to exit.
+[2020.06.25-12.54.31:380][618]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:382][618]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:384][618]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:385][618]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:386][618]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:388][618]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:389][618]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:391][618]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:392][618]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:394][618]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:395][618]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:397][618]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:398][618]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:401][618]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:403][618]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:404][618]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:405][618]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:407][618]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:408][618]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:410][618]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:412][618]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:413][618]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:415][618]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:416][618]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:418][618]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:419][618]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:421][618]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:450][618]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.06.25-12.54.31:457][618]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.06.25-12.54.31:458][618]LogExit: Editor shut down
+[2020.06.25-12.54.31:458][618]LogExit: Transaction tracking system shut down
+[2020.06.25-12.54.31:777][618]LogExit: Object subsystem successfully closed.
+[2020.06.25-12.54.31:794][618]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.06.25-12.54.31:842][618]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (754)
+[2020.06.25-12.54.31:842][618]LogModuleManager: Shutting down and abandoning module PinnedCommandList (752)
+[2020.06.25-12.54.31:842][618]LogModuleManager: Shutting down and abandoning module SkeletonEditor (750)
+[2020.06.25-12.54.31:842][618]LogModuleManager: Shutting down and abandoning module AnimationEditor (748)
+[2020.06.25-12.54.31:842][618]LogModuleManager: Shutting down and abandoning module BlueprintGraph (746)
+[2020.06.25-12.54.31:842][618]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (742)
+[2020.06.25-12.54.31:842][618]LogModuleManager: Shutting down and abandoning module Voice (740)
+[2020.06.25-12.54.31:843][618]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (738)
+[2020.06.25-12.54.31:843][618]LogModuleManager: Shutting down and abandoning module WorldBrowser (736)
+[2020.06.25-12.54.31:843][618]LogModuleManager: Shutting down and abandoning module SceneOutliner (734)
+[2020.06.25-12.54.31:843][618]LogModuleManager: Shutting down and abandoning module AddContentDialog (732)
+[2020.06.25-12.54.31:843][618]LogModuleManager: Shutting down and abandoning module WidgetCarousel (731)
+[2020.06.25-12.54.31:843][618]LogModuleManager: Shutting down and abandoning module EditorWidgets (728)
+[2020.06.25-12.54.31:843][618]LogModuleManager: Shutting down and abandoning module CollectionManager (726)
+[2020.06.25-12.54.31:843][618]LogModuleManager: Shutting down and abandoning module StatsViewer (724)
+[2020.06.25-12.54.31:843][618]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (722)
+[2020.06.25-12.54.31:843][618]LogModuleManager: Shutting down and abandoning module FoliageEdit (720)
+[2020.06.25-12.54.31:843][618]LogModuleManager: Shutting down and abandoning module LandscapeEditor (718)
+[2020.06.25-12.54.31:843][618]LogModuleManager: Shutting down and abandoning module MeshPaintMode (716)
+[2020.06.25-12.54.31:843][618]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (714)
+[2020.06.25-12.54.31:843][618]LogModuleManager: Shutting down and abandoning module ActorPickerMode (712)
+[2020.06.25-12.54.31:843][618]LogModuleManager: Shutting down and abandoning module GeometryMode (710)
+[2020.06.25-12.54.31:843][618]LogModuleManager: Shutting down and abandoning module TextureAlignMode (708)
+[2020.06.25-12.54.31:843][618]LogModuleManager: Shutting down and abandoning module BspMode (706)
+[2020.06.25-12.54.31:843][618]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (704)
+[2020.06.25-12.54.31:843][618]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (702)
+[2020.06.25-12.54.31:843][618]LogModuleManager: Shutting down and abandoning module AutomationWorker (700)
+[2020.06.25-12.54.31:843][618]LogModuleManager: Shutting down and abandoning module DatasmithFBXImporter (698)
+[2020.06.25-12.54.31:843][618]LogModuleManager: Shutting down and abandoning module DatasmithDeltaGenImporter (696)
+[2020.06.25-12.54.31:843][618]LogModuleManager: Shutting down and abandoning module DatasmithVREDImporter (694)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module OculusMR (692)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (690)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (688)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (686)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module PlacementMode (685)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module MaterialEditor (684)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (680)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (678)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (676)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (674)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (672)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module WebMMedia (670)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (668)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (666)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module SequenceRecorder (665)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (662)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (660)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (658)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (656)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (654)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (652)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (650)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (648)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (646)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (644)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (642)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module CharacterAI (640)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module SmartSnapping (638)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module SessionServices (636)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module MeshPaint (634)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module ViewportSnapping (632)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module ViewportInteraction (630)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module ClothPainter (628)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (627)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module LogVisualizer (624)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module IntroTutorials (622)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (621)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (618)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (616)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (614)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (612)
+[2020.06.25-12.54.31:844][618]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (611)
+[2020.06.25-12.54.32:820][618]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (608)
+[2020.06.25-12.54.32:820][618]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (606)
+[2020.06.25-12.54.32:820][618]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (604)
+[2020.06.25-12.54.32:820][618]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (602)
+[2020.06.25-12.54.32:820][618]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (600)
+[2020.06.25-12.54.32:820][618]LogModuleManager: Shutting down and abandoning module InputBindingEditor (598)
+[2020.06.25-12.54.32:820][618]LogModuleManager: Shutting down and abandoning module MergeActors (596)
+[2020.06.25-12.54.32:820][618]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (594)
+[2020.06.25-12.54.32:820][618]LogModuleManager: Shutting down and abandoning module LocalizationService (593)
+[2020.06.25-12.54.32:820][618]LogModuleManager: Shutting down and abandoning module HardwareTargeting (590)
+[2020.06.25-12.54.32:820][618]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (588)
+[2020.06.25-12.54.32:820][618]LogModuleManager: Shutting down and abandoning module UndoHistory (586)
+[2020.06.25-12.54.32:820][618]LogModuleManager: Shutting down and abandoning module XmlParser (584)
+[2020.06.25-12.54.32:820][618]LogModuleManager: Shutting down and abandoning module Blutility (582)
+[2020.06.25-12.54.32:820][618]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (580)
+[2020.06.25-12.54.32:821][618]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (579)
+[2020.06.25-12.54.32:821][618]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (576)
+[2020.06.25-12.54.32:821][618]LogModuleManager: Shutting down and abandoning module SettingsEditor (574)
+[2020.06.25-12.54.32:821][618]LogModuleManager: Shutting down and abandoning module ProjectLauncher (572)
+[2020.06.25-12.54.32:821][618]LogModuleManager: Shutting down and abandoning module SessionFrontend (570)
+[2020.06.25-12.54.32:821][618]LogModuleManager: Shutting down and abandoning module ProfilerClient (568)
+[2020.06.25-12.54.32:821][618]LogModuleManager: Shutting down and abandoning module DeviceManager (566)
+[2020.06.25-12.54.32:821][618]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (565)
+[2020.06.25-12.54.32:865][618]LogModuleManager: Shutting down and abandoning module AutomationController (562)
+[2020.06.25-12.54.32:865][618]LogModuleManager: Shutting down and abandoning module AutomationWindow (560)
+[2020.06.25-12.54.32:865][618]LogModuleManager: Shutting down and abandoning module Layers (558)
+[2020.06.25-12.54.32:865][618]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (556)
+[2020.06.25-12.54.32:865][618]LogModuleManager: Shutting down and abandoning module DetailCustomizations (554)
+[2020.06.25-12.54.32:865][618]LogModuleManager: Shutting down and abandoning module PackagesDialog (552)
+[2020.06.25-12.54.32:865][618]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (550)
+[2020.06.25-12.54.32:865][618]LogModuleManager: Shutting down and abandoning module Persona (548)
+[2020.06.25-12.54.32:865][618]LogModuleManager: Shutting down and abandoning module AnimGraph (547)
+[2020.06.25-12.54.32:865][618]LogModuleManager: Shutting down and abandoning module Kismet (544)
+[2020.06.25-12.54.32:879][618]LogModuleManager: Shutting down and abandoning module KismetWidgets (543)
+[2020.06.25-12.54.32:880][618]LogModuleManager: Shutting down and abandoning module GraphEditor (540)
+[2020.06.25-12.54.32:880][618]LogModuleManager: Shutting down and abandoning module StructViewer (538)
+[2020.06.25-12.54.32:880][618]LogModuleManager: Shutting down and abandoning module ClassViewer (536)
+[2020.06.25-12.54.32:880][618]LogModuleManager: Shutting down and abandoning module Toolbox (534)
+[2020.06.25-12.54.32:880][618]LogModuleManager: Shutting down and abandoning module ModuleUI (532)
+[2020.06.25-12.54.32:880][618]LogModuleManager: Shutting down and abandoning module MovieSceneTools (530)
+[2020.06.25-12.54.32:880][618]LogModuleManager: Shutting down and abandoning module OutputLog (528)
+[2020.06.25-12.54.32:882][618]LogModuleManager: Shutting down and abandoning module GammaUI (526)
+[2020.06.25-12.54.32:882][618]LogModuleManager: Shutting down and abandoning module Documentation (524)
+[2020.06.25-12.54.32:882][618]LogModuleManager: Shutting down and abandoning module LiveCoding (522)
+[2020.06.25-12.54.32:882][618]LogModuleManager: Shutting down and abandoning module LevelSequence (520)
+[2020.06.25-12.54.32:882][618]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (518)
+[2020.06.25-12.54.32:882][618]LogModuleManager: Shutting down and abandoning module MovieScene (516)
+[2020.06.25-12.54.32:882][618]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (514)
+[2020.06.25-12.54.32:882][618]LogModuleManager: Shutting down and abandoning module LauncherPlatform (512)
+[2020.06.25-12.54.32:882][618]LogModuleManager: Shutting down and abandoning module AnalyticsET (510)
+[2020.06.25-12.54.32:882][618]LogModuleManager: Shutting down and abandoning module PortalServices (508)
+[2020.06.25-12.54.32:882][618]LogModuleManager: Shutting down and abandoning module PortalRpc (506)
+[2020.06.25-12.54.32:882][618]LogModuleManager: Shutting down and abandoning module MessagingRpc (504)
+[2020.06.25-12.54.32:882][618]LogModuleManager: Shutting down and abandoning module AIModule (502)
+[2020.06.25-12.54.32:882][618]LogModuleManager: Shutting down and abandoning module GameplayDebugger (501)
+[2020.06.25-12.54.32:882][618]LogModuleManager: Shutting down and abandoning module AITestSuite (499)
+[2020.06.25-12.54.32:882][618]LogModuleManager: Shutting down and abandoning module NavigationSystem (497)
+[2020.06.25-12.54.32:882][618]LogModuleManager: Shutting down and abandoning module DesktopPlatform (494)
+[2020.06.25-12.54.32:882][618]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (492)
+[2020.06.25-12.54.32:890][618]LogModuleManager: Shutting down and abandoning module ProfilerService (490)
+[2020.06.25-12.54.33:113][618]LogModuleManager: Shutting down and abandoning module TaskGraph (488)
+[2020.06.25-12.54.33:113][618]LogModuleManager: Shutting down and abandoning module DatasmithCADTranslator (486)
+[2020.06.25-12.54.33:113][618]LogModuleManager: Shutting down and abandoning module DatasmithC4DImporter (484)
+[2020.06.25-12.54.33:113][618]LogModuleManager: Shutting down and abandoning module VariantManager (482)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module StaticMeshEditorExtension (480)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module MeshProcessingLibrary (479)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module MDLImporter (476)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module DatasmithCoreTechExtension (474)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (473)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (472)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module DatasmithOpenNurbsTranslator (468)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module DatasmithNativeTranslator (466)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module DatasmithIFCImporter (464)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module DatasmithGLTFImporter (462)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module DatasmithImporter (461)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module ScreenshotTools (458)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module SteamVRController (456)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (454)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (452)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module OculusEditor (450)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module OculusInput (448)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (446)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module EditableMesh (444)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (442)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module CableComponent (440)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module AudioCapture (438)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (436)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (434)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module AppleImageUtils (432)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module AndroidPermission (430)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (428)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (426)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module MediaCompositing (424)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module ImgMedia (422)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (420)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (418)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (416)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module HTML5Networking (414)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (412)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (411)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (408)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module GeometryCollectionExampleCore (406)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module DataprepLibraries (400)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module DataprepCore (398)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module DataprepEditor (396)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (394)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module BlastCore (392)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module BlastAuthoring (390)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module BackChannel (388)
+[2020.06.25-12.54.33:114][618]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (386)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module AutomationUtils (384)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module AlembicImporter (382)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module AlembicLibrary (381)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module GeometryCache (380)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (379)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module VariantManagerContent (374)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (372)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (370)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module PluginBrowser (368)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (366)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module PolygonModeling (364)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module MeshEditor (362)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (360)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module GLTFImporter (358)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (356)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module CurveEditorTools (354)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module CurveEditor (353)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (350)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module CryptoKeys (348)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (346)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (344)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module UObjectPlugin (342)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (340)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (338)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module GitSourceControl (336)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module SourceControl (335)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (332)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (330)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (328)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (326)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (324)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (322)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (320)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module Paper2DEditor (318)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (316)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module AdvancedSessions (314)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module SignificanceManager (312)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (310)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (308)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (304)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module ActorSequence (302)
+[2020.06.25-12.54.33:115][618]LogModuleManager: Shutting down and abandoning module UdpMessaging (300)
+[2020.06.25-12.54.33:216][618]LogModuleManager: Shutting down and abandoning module TcpMessaging (298)
+[2020.06.25-12.54.33:317][618]LogModuleManager: Shutting down and abandoning module SmoothSyncPlugin (296)
+[2020.06.25-12.54.33:317][618]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (294)
+[2020.06.25-12.54.33:317][618]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (292)
+[2020.06.25-12.54.33:317][618]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (290)
+[2020.06.25-12.54.33:317][618]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (288)
+[2020.06.25-12.54.33:317][618]LogModuleManager: Shutting down and abandoning module MagicLeapController (286)
+[2020.06.25-12.54.33:317][618]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.06.25-12.54.33:317][618]LogModuleManager: Shutting down and abandoning module MagicLeapAR (284)
+[2020.06.25-12.54.33:317][618]LogModuleManager: Shutting down and abandoning module AugmentedReality (283)
+[2020.06.25-12.54.33:317][618]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (280)
+[2020.06.25-12.54.33:317][618]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (278)
+[2020.06.25-12.54.33:317][618]LogModuleManager: Shutting down and abandoning module FacialAnimation (276)
+[2020.06.25-12.54.33:317][618]LogModuleManager: Shutting down and abandoning module DataValidation (274)
+[2020.06.25-12.54.33:317][618]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (272)
+[2020.06.25-12.54.33:317][618]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2020.06.25-12.54.33:317][618]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2020.06.25-12.54.33:317][618]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (268)
+[2020.06.25-12.54.33:317][618]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2020.06.25-12.54.33:318][618]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2020.06.25-12.54.33:318][618]LogModuleManager: Shutting down and abandoning module ContentBrowser (261)
+[2020.06.25-12.54.33:319][618]LogModuleManager: Shutting down and abandoning module TreeMap (259)
+[2020.06.25-12.54.33:319][618]LogModuleManager: Shutting down and abandoning module AnimationSharing (256)
+[2020.06.25-12.54.33:319][618]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (254)
+[2020.06.25-12.54.33:319][618]LogModuleManager: Shutting down and abandoning module Paper2D (252)
+[2020.06.25-12.54.33:319][618]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (250)
+[2020.06.25-12.54.33:321][618]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (248)
+[2020.06.25-12.54.33:321][618]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (246)
+[2020.06.25-12.54.33:321][618]LogModuleManager: Shutting down and abandoning module PacketHandler (244)
+[2020.06.25-12.54.33:321][618]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (242)
+[2020.06.25-12.54.33:321][618]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (240)
+[2020.06.25-12.54.33:321][618]LogModuleManager: Shutting down and abandoning module MediaAssets (238)
+[2020.06.25-12.54.33:321][618]LogModuleManager: Shutting down and abandoning module Overlay (236)
+[2020.06.25-12.54.33:321][618]LogModuleManager: Shutting down and abandoning module OverlayEditor (235)
+[2020.06.25-12.54.33:321][618]LogModuleManager: Shutting down and abandoning module VREditor (232)
+[2020.06.25-12.54.33:321][618]LogModuleManager: Shutting down and abandoning module StringTableEditor (230)
+[2020.06.25-12.54.33:321][618]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (228)
+[2020.06.25-12.54.33:321][618]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (226)
+[2020.06.25-12.54.33:321][618]LogModuleManager: Shutting down and abandoning module FunctionalTesting (224)
+[2020.06.25-12.54.33:321][618]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (222)
+[2020.06.25-12.54.33:321][618]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (221)
+[2020.06.25-12.54.33:321][618]LogModuleManager: Shutting down and abandoning module UMG (218)
+[2020.06.25-12.54.33:321][618]LogModuleManager: Shutting down and abandoning module UMGEditor (217)
+[2020.06.25-12.54.33:321][618]LogModuleManager: Shutting down and abandoning module Sequencer (216)
+[2020.06.25-12.54.33:321][618]LogModuleManager: Shutting down and abandoning module MessageLog (213)
+[2020.06.25-12.54.33:321][618]LogModuleManager: Shutting down and abandoning module SlateReflector (208)
+[2020.06.25-12.54.33:322][618]LogModuleManager: Shutting down and abandoning module Slate (206)
+[2020.06.25-12.54.33:322][618]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (204)
+[2020.06.25-12.54.33:322][618]LogModuleManager: Shutting down and abandoning module EditorStyle (202)
+[2020.06.25-12.54.33:322][618]LogModuleManager: Shutting down and abandoning module UnrealEd (200)
+[2020.06.25-12.54.33:322][618]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2020.06.25-12.54.33:322][618]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2020.06.25-12.54.33:322][618]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2020.06.25-12.54.33:322][618]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2020.06.25-12.54.33:322][618]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2020.06.25-12.54.33:322][618]LogModuleManager: Shutting down and abandoning module Core (188)
+[2020.06.25-12.54.33:322][618]LogModuleManager: Shutting down and abandoning module KismetCompiler (186)
+[2020.06.25-12.54.33:322][618]LogModuleManager: Shutting down and abandoning module MeshUtilities (184)
+[2020.06.25-12.54.33:322][618]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (183)
+[2020.06.25-12.54.33:322][618]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (182)
+[2020.06.25-12.54.33:322][618]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (181)
+[2020.06.25-12.54.33:322][618]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (179)
+[2020.06.25-12.54.33:323][618]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (177)
+[2020.06.25-12.54.33:323][618]LogModuleManager: Shutting down and abandoning module MaterialBaking (173)
+[2020.06.25-12.54.33:323][618]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (168)
+[2020.06.25-12.54.33:323][618]LogModuleManager: Shutting down and abandoning module DerivedDataCache (166)
+[2020.06.25-12.54.33:340][618]LogDerivedDataCache: Shutdown
+[2020.06.25-12.54.33:340][618]LogModuleManager: Shutting down and abandoning module XGEController (164)
+[2020.06.25-12.54.33:340][618]LogXGEController: Cleaning working directory: C:/Users/joeym/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.06.25-12.54.33:340][618]LogModuleManager: Shutting down and abandoning module TargetPlatform (162)
+[2020.06.25-12.54.33:340][618]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (161)
+[2020.06.25-12.54.33:340][618]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (159)
+[2020.06.25-12.54.33:340][618]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (157)
+[2020.06.25-12.54.33:340][618]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (155)
+[2020.06.25-12.54.33:340][618]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (153)
+[2020.06.25-12.54.33:340][618]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (151)
+[2020.06.25-12.54.33:341][618]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (149)
+[2020.06.25-12.54.33:341][618]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (147)
+[2020.06.25-12.54.33:341][618]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (145)
+[2020.06.25-12.54.33:341][618]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (143)
+[2020.06.25-12.54.33:341][618]LogModuleManager: Shutting down and abandoning module ImageWrapper (142)
+[2020.06.25-12.54.33:341][618]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (139)
+[2020.06.25-12.54.33:341][618]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (137)
+[2020.06.25-12.54.33:341][618]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (135)
+[2020.06.25-12.54.33:341][618]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (133)
+[2020.06.25-12.54.33:341][618]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (131)
+[2020.06.25-12.54.33:341][618]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (129)
+[2020.06.25-12.54.33:341][618]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (127)
+[2020.06.25-12.54.33:341][618]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.06.25-12.54.33:341][618]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (123)
+[2020.06.25-12.54.33:341][618]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (121)
+[2020.06.25-12.54.33:342][618]LogModuleManager: Shutting down and abandoning module Messaging (119)
+[2020.06.25-12.54.33:342][618]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (117)
+[2020.06.25-12.54.33:342][618]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (115)
+[2020.06.25-12.54.33:342][618]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (113)
+[2020.06.25-12.54.33:346][618]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (111)
+[2020.06.25-12.54.33:346][618]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (109)
+[2020.06.25-12.54.33:346][618]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (107)
+[2020.06.25-12.54.33:346][618]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (105)
+[2020.06.25-12.54.33:346][618]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (103)
+[2020.06.25-12.54.33:346][618]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (101)
+[2020.06.25-12.54.33:346][618]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (99)
+[2020.06.25-12.54.33:346][618]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (97)
+[2020.06.25-12.54.33:346][618]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (95)
+[2020.06.25-12.54.33:346][618]LogModuleManager: Shutting down and abandoning module InputCore (92)
+[2020.06.25-12.54.33:346][618]LogModuleManager: Shutting down and abandoning module Settings (90)
+[2020.06.25-12.54.33:347][618]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (88)
+[2020.06.25-12.54.33:347][618]LogModuleManager: Shutting down and abandoning module PhysXCooking (86)
+[2020.06.25-12.54.33:347][618]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (84)
+[2020.06.25-12.54.33:347][618]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (83)
+[2020.06.25-12.54.33:347][618]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2020.06.25-12.54.33:347][618]LogHMD: Freeing OpenVRDLLHandle.
+[2020.06.25-12.54.33:347][618]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2020.06.25-12.54.33:347][618]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2020.06.25-12.54.33:347][618]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2020.06.25-12.54.33:347][618]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2020.06.25-12.54.33:347][618]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2020.06.25-12.54.33:348][618]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.06.25-12.54.33:348][618]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.06.25-12.54.33:382][618]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.06.25-12.54.33:382][618]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.06.25-12.54.33:382][618]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B22DA302B-45AF-C4C4-99A5-23AC2ECCF3F3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=223845704c6516493bcdb69e8f4e2567%7C52cd936612ca433ba7244efdbd41ffd6%7C4eec7dc2-007f-4bed-8ab7-a8a892bc0b34&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.06.25-12.54.33:410][618]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.06.25-12.54.33:411][618]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.06.25-12.54.33:412][618]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.06.25-12.54.33:413][618]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.06.25-12.54.33:413][618]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.06.25-12.54.33:413][618]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.06.25-12.54.33:413][618]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.06.25-12.54.33:413][618]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.06.25-12.54.33:413][618]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.06.25-12.54.33:413][618]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.06.25-12.54.33:413][618]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.06.25-12.54.33:413][618]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.06.25-12.54.33:413][618]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.06.25-12.54.33:413][618]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.06.25-12.54.33:413][618]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.06.25-12.54.33:414][618]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.06.25-12.54.33:415][618]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.06.25-12.54.33:415][618]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.06.25-12.54.33:415][618]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.06.25-12.54.33:415][618]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.06.25-12.54.33:415][618]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.06.25-12.54.33:415][618]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.06.25-12.54.33:415][618]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.06.25-12.54.33:415][618]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.06.25-12.54.33:415][618]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.06.25-12.54.33:415][618]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.06.25-12.54.33:415][618]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.06.25-12.54.33:419][618]LogD3D11RHI: Shutdown
+[2020.06.25-12.54.33:419][618]LogD3D11RHI: CleanupD3DDevice
+[2020.06.25-12.54.33:419][618]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.06.25-12.54.33:419][618]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.06.25-12.54.33:419][618]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.06.25-12.54.33:601][618]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.06.25-12.54.33:608][618]LogExit: Exiting.
+[2020.06.25-12.54.33:633][618]Log file closed, 06/25/20 14:54:33
