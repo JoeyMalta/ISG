@@ -654,38 +654,3 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.25-12.58.52:416][208]LogFileHelpers: Saving map 'MAP_Garden' took 0.296
 [2020.06.25-12.58.58:364][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
 [2020.06.25-12.59.21:855][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
-[2020.06.25-13.00.28:561][163]LogEditorViewport: Clicking on Actor (context menu): Button_C (Button)
-[2020.06.25-13.00.28:578][163]LogSlate: FSceneViewport::OnFocusLost() reason 5
-[2020.06.25-13.00.29:252][240]LogSlate: FSceneViewport::OnFocusLost() reason 5
-[2020.06.25-13.00.29:259][240]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyAssets/Models/Button/Button.Button
-[2020.06.25-13.00.55:735][570]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/GameRelated/Gamemodes/GM_BaseGamemode.GM_BaseGamemode
-[2020.06.25-13.01.04:121][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/Gamemodes/GM_BaseGamemode" FILE="Z:/ISG_/ISG/Content/GameRelated/Gamemodes/GM_BaseGamemode.uasset" SILENT=true
-[2020.06.25-13.01.04:171][400]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/GM_BaseGamemodeA99FA381493F07FE866E75BD4268AE67.tmp' to 'Z:/ISG_/ISG/Content/GameRelated/Gamemodes/GM_BaseGamemode.uasset'
-[2020.06.25-13.01.04:337][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.06.25-13.01.05:480][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameRelated/Gamemodes/GM_BaseGamemode" FILE="Z:/ISG_/ISG/Content/GameRelated/Gamemodes/GM_BaseGamemode.uasset" SILENT=true
-[2020.06.25-13.01.05:520][524]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/GM_BaseGamemode83593EC34D8CE2C520848DA7555034C4.tmp' to 'Z:/ISG_/ISG/Content/GameRelated/Gamemodes/GM_BaseGamemode.uasset'
-[2020.06.25-13.01.05:680][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.06.25-13.01.07:659][725]BlueprintLog: New page: Compile Button
-[2020.06.25-13.01.07:877][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
-[2020.06.25-13.01.08:156][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Button/Button" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Button/Button.uasset" SILENT=true
-[2020.06.25-13.01.08:209][741]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/Button30B23798484C938A6C4BD38724FC242D.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Button/Button.uasset'
-[2020.06.25-13.01.08:545][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.06.25-13.01.22:930][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Models/Button/Button" FILE="Z:/ISG_/ISG/Content/MyAssets/Models/Button/Button.uasset" SILENT=true
-[2020.06.25-13.01.22:971][ 74]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/ButtonE998B30448C794EA03D8CC9EEEBA7BFE.tmp' to 'Z:/ISG_/ISG/Content/MyAssets/Models/Button/Button.uasset'
-[2020.06.25-13.01.23:104][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.06.25-13.01.24:411][212]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
-[2020.06.25-13.01.24:424][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/MAP_Garden" FILE="Z:/ISG_/ISG/Content/maps/MAP_Garden.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2020.06.25-13.01.24:459][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
-[2020.06.25-13.01.24:694][212]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MAP_Garden9695DFB14DFD6BD23A25229443EEC2EE.tmp' to 'Z:/ISG_/ISG/Content/maps/MAP_Garden.umap'
-[2020.06.25-13.01.24:722][212]LogFileHelpers: Saving map 'MAP_Garden' took 0.298
-[2020.06.25-13.01.24:735][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/MyPlayer" FILE="Z:/ISG_/ISG/Content/PlayerRelated/MyPlayer.uasset" SILENT=true
-[2020.06.25-13.01.24:855][212]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MyPlayerEE799C5A4242A159E3469C9F6BB87F3A.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/MyPlayer.uasset'
-[2020.06.25-13.01.26:513][357]LogSlate: Window 'GM_BaseGamemode' being destroyed
-[2020.06.25-13.01.26:518][357]LogSlate: Window 'GM_BaseGamemode' being destroyed
-[2020.06.25-13.01.26:528][357]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
-[2020.06.25-13.01.26:594][357]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
-[2020.06.25-13.01.26:594][357]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
-[2020.06.25-13.01.26:647][357]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
-[2020.06.25-13.01.26:647][357]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
-[2020.06.25-13.01.27:486][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.06.25-13.01.31:429][861]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
