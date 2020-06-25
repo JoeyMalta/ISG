@@ -634,3 +634,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.25-12.58.27:804][160]LogSlate: FSceneViewport::OnFocusLost() reason 5
 [2020.06.25-12.58.27:811][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerRelated/MyPlayer" FILE="Z:/ISG_/ISG/Content/PlayerRelated/MyPlayer.uasset" SILENT=true
 [2020.06.25-12.58.27:924][160]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MyPlayerE1DD3B404C63DC27181A77BCA6DD53A7.tmp' to 'Z:/ISG_/ISG/Content/PlayerRelated/MyPlayer.uasset'
+[2020.06.25-12.58.36:092][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.25-12.58.38:122][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.25-12.58.43:311][988]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.06.25-12.58.44:191][988]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.25-12.58.48:272][988]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/MyAssets/Models/Button/KickButton.KickButton
+[2020.06.25-12.58.48:278][988]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.25-12.58.49:022][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.06.25-12.58.49:226][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.06.25-12.58.49:252][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.06.25-12.58.49:280][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.06.25-12.58.51:281][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.06.25-12.58.52:097][208]LogSlate: Window 'Save Content' being destroyed
+[2020.06.25-12.58.52:112][208]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.25-12.58.52:120][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/MAP_Garden" FILE="Z:/ISG_/ISG/Content/maps/MAP_Garden.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.25-12.58.52:150][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.06.25-12.58.52:388][208]LogSavePackage: Moving 'Z:/ISG_/ISG/Saved/MAP_Garden74C426764ED33C8387B3D2B121BF086A.tmp' to 'Z:/ISG_/ISG/Content/maps/MAP_Garden.umap'
+[2020.06.25-12.58.52:416][208]LogFileHelpers: Saving map 'MAP_Garden' took 0.296
+[2020.06.25-12.58.58:364][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
